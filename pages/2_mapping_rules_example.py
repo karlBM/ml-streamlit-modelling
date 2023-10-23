@@ -21,7 +21,7 @@ import streamlit as st
 from streamlit.hello.utils import show_code
 
 
-def mapping_demo():
+def mapping_rules():
     @st.cache_data
     def from_data_file(filename):
         url = (
@@ -96,22 +96,22 @@ def mapping_demo():
     except URLError as e:
         st.error(
             """
-            **This demo requires internet access.**
+            **This example requires internet access.**
             Connection error: %s
         """
             % e.reason
         )
 
 
-st.set_page_config(page_title="Mapping Demo", page_icon="🌍")
-st.markdown("# Mapping Demo")
-st.sidebar.header("Mapping Demo")
+st.set_page_config(page_title="Mapping Rules Example", page_icon="🌍")
+st.markdown("# Mapping Rules Example")
+st.sidebar.header("Mapping Rules Example")
 st.write(
     """This demo shows how to use
 [`st.pydeck_chart`](https://docs.streamlit.io/library/api-reference/charts/st.pydeck_chart)
 to display geospatial data."""
 )
 
-mapping_demo()
+mapping_rules()
 
-show_code(mapping_demo)
+show_code(mapping_rules)

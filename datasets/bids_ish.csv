@@ -1,0 +1,1001 @@
+publisher,canonical_postcode_id_from_place_resolver,is_weekend,day_part,price
+Evelyn,"('37.73604', '-120.93549', 'Riverbank', 'US', 'America/Los_Angeles')",0,11,23
+Robert,"('47.80527', '-122.24064', 'Bothell West', 'US', 'America/Los_Angeles')",1,14,15
+Anthony,"('33.72255', '-116.37697', 'Palm Desert', 'US', 'America/Los_Angeles')",1,19,11
+Craig,"('35.88264', '-80.08199', 'Thomasville', 'US', 'America/New_York')",1,13,4
+Hannah,"('46.32374', '-120.00865', 'Sunnyside', 'US', 'America/Los_Angeles')",0,13,23
+Ronnie,"('40.58654', '-122.39168', 'Redding', 'US', 'America/Los_Angeles')",1,19,18
+Jennifer,"('32.52515', '-93.75018', 'Shreveport', 'US', 'America/Chicago')",1,4,11
+Rachel,"('41.24255', '-82.61573', 'Norwalk', 'US', 'America/New_York')",0,4,17
+Kaitlin,"('25.67927', '-80.31727', 'Kendall', 'US', 'America/New_York')",1,17,10
+Heidi,"('40.93121', '-73.89875', 'Yonkers', 'US', 'America/New_York')",1,3,22
+Felicia,"('37.71715', '-122.40433', 'Visitacion Valley', 'US', 'America/Los_Angeles')",1,12,6
+Tyler,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",0,14,7
+Renee,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",1,14,4
+Faith,"('29.65163', '-82.32483', 'Gainesville', 'US', 'America/New_York')",1,0,5
+Stephen,"('41.50343', '-74.01042', 'Newburgh', 'US', 'America/New_York')",0,15,20
+Erin,"('33.08014', '-83.2321', 'Milledgeville', 'US', 'America/New_York')",0,8,10
+Tammy,"('34.95303', '-120.43572', 'Santa Maria', 'US', 'America/Los_Angeles')",1,4,19
+Michelle,"('33.44872', '-86.78777', 'Vestavia Hills', 'US', 'America/Chicago')",1,11,4
+Alexis,"('37.60876', '-77.37331', 'Mechanicsville', 'US', 'America/New_York')",0,11,19
+Christina,"('29.84576', '-90.10674', 'Estelle', 'US', 'America/Chicago')",0,13,5
+Marcus,"('33.72255', '-116.37697', 'Palm Desert', 'US', 'America/Los_Angeles')",1,19,17
+Jessica,"('33.54428', '-84.23381', 'Stockbridge', 'US', 'America/New_York')",1,21,22
+Daniel,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",1,19,2
+Matthew,"('40.64621', '-73.97069', 'Kensington', 'US', 'America/New_York')",0,2,10
+Brittany,"('20.88953', '-156.47432', 'Kahului', 'US', 'Pacific/Honolulu')",0,20,11
+Adam,"('45.16024', '-93.08883', 'Lino Lakes', 'US', 'America/Chicago')",0,21,6
+Jennifer,"('33.72255', '-116.37697', 'Palm Desert', 'US', 'America/Los_Angeles')",1,23,18
+Sheila,"('41.50343', '-74.01042', 'Newburgh', 'US', 'America/New_York')",1,6,11
+David,"('40.63316', '-74.13653', 'Port Richmond', 'US', 'America/New_York')",1,7,22
+Dave,"('39.72943', '-104.83192', 'Aurora', 'US', 'America/Denver')",0,12,17
+Madeline,"('34.21639', '-119.0376', 'Camarillo', 'US', 'America/Los_Angeles')",1,8,14
+Jeffrey,"('28.90054', '-81.26367', 'Deltona', 'US', 'America/New_York')",1,0,21
+Jeffery,"('43.54072', '-116.56346', 'Nampa', 'US', 'America/Boise')",1,11,15
+Sarah,"('45.49428', '-122.86705', 'Aloha', 'US', 'America/Los_Angeles')",1,10,10
+Tammy,"('34.95303', '-120.43572', 'Santa Maria', 'US', 'America/Los_Angeles')",0,8,1
+John,"('46.32374', '-120.00865', 'Sunnyside', 'US', 'America/Los_Angeles')",1,2,15
+Gary,"('35.74788', '-95.36969', 'Muskogee', 'US', 'America/Chicago')",0,0,24
+Christine,"('39.00622', '-77.4286', 'Sterling', 'US', 'America/New_York')",1,3,16
+Ralph,"('41.16704', '-73.20483', 'Bridgeport', 'US', 'America/New_York')",1,21,6
+Kayla,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",1,8,5
+Julie,"('35.88264', '-80.08199', 'Thomasville', 'US', 'America/New_York')",0,16,16
+Michael,"('34.21639', '-119.0376', 'Camarillo', 'US', 'America/Los_Angeles')",0,10,22
+Samuel,"('30.5427', '-97.54667', 'Hutto', 'US', 'America/Chicago')",0,15,18
+Shawn,"('33.92946', '-116.97725', 'Beaumont', 'US', 'America/Los_Angeles')",1,23,2
+Ricardo,"('33.50921', '-111.89903', 'Scottsdale', 'US', 'America/Phoenix')",1,10,8
+Alexis,"('34.21639', '-119.0376', 'Camarillo', 'US', 'America/Los_Angeles')",1,11,9
+Spencer,"('40.64621', '-73.97069', 'Kensington', 'US', 'America/New_York')",1,5,1
+Vincent,"('33.50921', '-111.89903', 'Scottsdale', 'US', 'America/Phoenix')",0,9,18
+Billy,"('46.32374', '-120.00865', 'Sunnyside', 'US', 'America/Los_Angeles')",1,0,3
+Jeffrey,"('42.52787', '-70.92866', 'Peabody', 'US', 'America/New_York')",0,9,24
+Steven,"('42.52787', '-70.92866', 'Peabody', 'US', 'America/New_York')",0,22,12
+Nicole,"('39.96097', '-75.60804', 'West Chester', 'US', 'America/New_York')",0,19,8
+Jennifer,"('31.84568', '-102.36764', 'Odessa', 'US', 'America/Chicago')",1,21,4
+Alyssa,"('42.4251', '-71.06616', 'Malden', 'US', 'America/New_York')",0,9,4
+Jerome,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",1,1,11
+Joseph,"('36.02506', '-86.77917', 'Brentwood Estates', 'US', 'America/Chicago')",0,5,16
+Michael,"('34.09611', '-118.10583', 'San Gabriel', 'US', 'America/Los_Angeles')",0,5,21
+Sandra,"('39.72943', '-104.83192', 'Aurora', 'US', 'America/Denver')",1,21,16
+Mark,"('40.24537', '-75.64963', 'Pottstown', 'US', 'America/New_York')",0,22,24
+Daniel,"('39.43534', '-84.20299', 'Lebanon', 'US', 'America/New_York')",0,13,16
+Christopher,"('37.52487', '-77.55777', 'Bon Air', 'US', 'America/New_York')",1,5,23
+Cheryl,"('39.32011', '-76.51552', 'Rosedale', 'US', 'America/New_York')",1,11,16
+Amanda,"('42.97086', '-82.42491', 'Port Huron', 'US', 'America/Detroit')",1,7,21
+Alicia,"('31.76212', '-95.63079', 'Palestine', 'US', 'America/Chicago')",1,6,17
+Erin,"('42.4251', '-71.06616', 'Malden', 'US', 'America/New_York')",1,17,3
+Amber,"('41.55838', '-81.56929', 'Collinwood', 'US', 'America/New_York')",1,0,20
+Vanessa,"('39.43534', '-84.20299', 'Lebanon', 'US', 'America/New_York')",1,17,13
+Antonio,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",1,12,14
+Joshua,"('32.35126', '-95.30106', 'Tyler', 'US', 'America/Chicago')",0,1,21
+Mikayla,"('28.15112', '-82.46148', 'Lutz', 'US', 'America/New_York')",1,11,7
+Matthew,"('32.9156', '-117.14392', 'Mira Mesa', 'US', 'America/Los_Angeles')",0,16,20
+Alicia,"('31.76212', '-95.63079', 'Palestine', 'US', 'America/Chicago')",0,4,5
+Susan,"('26.18924', '-98.15529', 'San Juan', 'US', 'America/Chicago')",1,4,8
+Thomas,"('33.98154', '-81.23621', 'Lexington', 'US', 'America/New_York')",0,20,6
+Sergio,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",0,18,20
+John,"('30.5427', '-97.54667', 'Hutto', 'US', 'America/Chicago')",1,6,1
+Sheila,"('39.78504', '-85.76942', 'Greenfield', 'US', 'America/Indiana/Indianapolis')",1,8,16
+Anthony,"('44.99012', '-123.02621', 'Keizer', 'US', 'America/Los_Angeles')",0,10,16
+James,"('39.32011', '-76.51552', 'Rosedale', 'US', 'America/New_York')",1,11,6
+David,"('39.32288', '-76.72803', 'Woodlawn', 'US', 'America/New_York')",1,17,23
+Tanya,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",0,20,22
+William,"('31.76212', '-95.63079', 'Palestine', 'US', 'America/Chicago')",1,5,21
+Ryan,"('32.35126', '-95.30106', 'Tyler', 'US', 'America/Chicago')",0,8,15
+Thomas,"('43.54072', '-116.56346', 'Nampa', 'US', 'America/Boise')",1,15,15
+Wanda,"('34.63915', '-120.45794', 'Lompoc', 'US', 'America/Los_Angeles')",0,2,20
+Lauren,"('42.58342', '-71.8023', 'Fitchburg', 'US', 'America/New_York')",1,11,7
+Megan,"('36.06523', '-119.01677', 'Porterville', 'US', 'America/Los_Angeles')",0,18,1
+Sydney,"('40.93121', '-73.89875', 'Yonkers', 'US', 'America/New_York')",0,5,9
+Shannon,"('37.60876', '-77.37331', 'Mechanicsville', 'US', 'America/New_York')",0,10,13
+Samantha,"('38.58894', '-89.99038', 'Fairview Heights', 'US', 'America/Chicago')",0,20,14
+Jennifer,"('37.95143', '-91.77127', 'Rolla', 'US', 'America/Chicago')",0,5,19
+Beth,"('42.52787', '-70.92866', 'Peabody', 'US', 'America/New_York')",1,6,14
+Anthony,"('34.63915', '-120.45794', 'Lompoc', 'US', 'America/Los_Angeles')",0,10,23
+Justin,"('26.68451', '-80.66756', 'Belle Glade', 'US', 'America/New_York')",0,9,7
+Paula,"('33.50921', '-111.89903', 'Scottsdale', 'US', 'America/Phoenix')",0,16,21
+Jacob,"('39.08367', '-84.50855', 'Covington', 'US', 'America/New_York')",1,15,9
+Rebecca,"('33.98154', '-81.23621', 'Lexington', 'US', 'America/New_York')",1,18,15
+Arthur,"('41.54566', '-71.29144', 'Middletown', 'US', 'America/New_York')",1,7,16
+Laura,"('41.54566', '-71.29144', 'Middletown', 'US', 'America/New_York')",0,7,11
+Anthony,"('20.88953', '-156.47432', 'Kahului', 'US', 'Pacific/Honolulu')",0,18,14
+Dustin,"('32.42067', '-104.22884', 'Carlsbad', 'US', 'America/Denver')",1,9,7
+Edwin,"('27.71809', '-82.35176', 'Sun City Center', 'US', 'America/New_York')",0,21,3
+Emily,"('29.65163', '-82.32483', 'Gainesville', 'US', 'America/New_York')",0,8,7
+Melanie,"('40.93121', '-73.89875', 'Yonkers', 'US', 'America/New_York')",1,19,9
+Chelsea,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",1,23,6
+Douglas,"('33.45122', '-86.99666', 'Hueytown', 'US', 'America/Chicago')",1,23,11
+Adrian,"('31.84568', '-102.36764', 'Odessa', 'US', 'America/Chicago')",0,8,11
+Brenda,"('45.16024', '-93.08883', 'Lino Lakes', 'US', 'America/Chicago')",1,5,12
+Michelle,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",0,6,21
+Michael,"('40.56754', '-89.64066', 'Pekin', 'US', 'America/Chicago')",0,17,4
+Spencer,"('41.16704', '-73.20483', 'Bridgeport', 'US', 'America/New_York')",1,18,19
+Robert,"('33.35283', '-111.78903', 'Gilbert', 'US', 'America/Phoenix')",1,20,8
+Stephanie,"('40.82232', '-74.15987', 'Nutley', 'US', 'America/New_York')",1,2,16
+Roy,"('33.92946', '-116.97725', 'Beaumont', 'US', 'America/Los_Angeles')",0,20,16
+Shannon,"('33.45122', '-86.99666', 'Hueytown', 'US', 'America/Chicago')",0,5,6
+Kyle,"('28.54944', '-81.77285', 'Clermont', 'US', 'America/New_York')",0,17,21
+Brenda,"('38.70734', '-77.02303', 'Fort Washington', 'US', 'America/New_York')",0,19,19
+Aimee,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",1,18,13
+Kathy,"('40.93121', '-73.89875', 'Yonkers', 'US', 'America/New_York')",0,5,3
+Christine,"('45.53929', '-122.38731', 'Troutdale', 'US', 'America/Los_Angeles')",0,7,4
+Olivia,"('34.25628', '-78.04471', 'Leland', 'US', 'America/New_York')",0,23,12
+David,"('42.35843', '-71.05977', 'Boston', 'US', 'America/New_York')",1,16,16
+James,"('41.6764', '-91.58045', 'Coralville', 'US', 'America/Chicago')",0,12,17
+Misty,"('40.58654', '-122.39168', 'Redding', 'US', 'America/Los_Angeles')",0,7,4
+Lindsay,"('40.65538', '-74.38987', 'Scotch Plains', 'US', 'America/New_York')",1,0,1
+Jennifer,"('28.54944', '-81.77285', 'Clermont', 'US', 'America/New_York')",0,18,12
+Anthony,"('39.78504', '-85.76942', 'Greenfield', 'US', 'America/Indiana/Indianapolis')",1,16,15
+Terri,"('33.95015', '-118.03917', 'South Whittier', 'US', 'America/Los_Angeles')",0,22,10
+Nicholas,"('26.2173', '-80.22588', 'North Lauderdale', 'US', 'America/New_York')",1,7,7
+John,"('33.03699', '-117.29198', 'Encinitas', 'US', 'America/Los_Angeles')",1,9,24
+Katherine,"('26.2173', '-80.22588', 'North Lauderdale', 'US', 'America/New_York')",1,11,9
+Rebecca,"('43.54072', '-116.56346', 'Nampa', 'US', 'America/Boise')",0,10,8
+David,"('27.71809', '-82.35176', 'Sun City Center', 'US', 'America/New_York')",0,4,8
+Robert,"('44.99012', '-123.02621', 'Keizer', 'US', 'America/Los_Angeles')",1,0,24
+Jeremy,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",1,2,10
+Bryan,"('34.95303', '-120.43572', 'Santa Maria', 'US', 'America/Los_Angeles')",1,8,6
+Amber,"('43.91452', '-69.96533', 'Brunswick', 'US', 'America/New_York')",1,16,10
+Henry,"('27.71809', '-82.35176', 'Sun City Center', 'US', 'America/New_York')",0,12,16
+Anita,"('41.27621', '-72.86843', 'East Haven', 'US', 'America/New_York')",1,10,9
+Brian,"('26.91756', '-82.07842', 'Punta Gorda Isles', 'US', 'America/New_York')",1,19,4
+Abigail,"('29.53885', '-95.44744', 'Fresno', 'US', 'America/Chicago')",0,1,21
+Megan,"('41.0051', '-73.78458', 'Scarsdale', 'US', 'America/New_York')",0,8,3
+Mark,"('26.2173', '-80.22588', 'North Lauderdale', 'US', 'America/New_York')",0,9,2
+Brian,"('42.35843', '-71.05977', 'Boston', 'US', 'America/New_York')",1,13,15
+Christian,"('39.09112', '-94.41551', 'Independence', 'US', 'America/Chicago')",1,1,1
+Suzanne,"('41.48199', '-81.79819', 'Lakewood', 'US', 'America/New_York')",0,3,22
+Amanda,"('42.58342', '-71.8023', 'Fitchburg', 'US', 'America/New_York')",1,10,21
+James,"('36.20829', '-115.98391', 'Pahrump', 'US', 'America/Los_Angeles')",1,14,23
+Jane,"('34.09611', '-118.10583', 'San Gabriel', 'US', 'America/Los_Angeles')",1,17,9
+Cynthia,"('40.94065', '-73.99681', 'Dumont', 'US', 'America/New_York')",0,10,12
+Beth,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",1,16,12
+Laurie,"('40.58654', '-122.39168', 'Redding', 'US', 'America/Los_Angeles')",1,22,23
+Kenneth,"('29.53885', '-95.44744', 'Fresno', 'US', 'America/Chicago')",1,20,8
+Brandi,"('40.57788', '-73.95958', 'Brighton Beach', 'US', 'America/New_York')",0,17,4
+Jacqueline,"('33.76446', '-117.79394', 'North Tustin', 'US', 'America/Los_Angeles')",0,3,16
+Rose,"('40.64621', '-73.97069', 'Kensington', 'US', 'America/New_York')",0,12,16
+Mackenzie,"('39.45621', '-77.96389', 'Martinsburg', 'US', 'America/New_York')",1,0,10
+Jamie,"('30.17746', '-81.38758', 'Palm Valley', 'US', 'America/New_York')",1,7,1
+Betty,"('35.88264', '-80.08199', 'Thomasville', 'US', 'America/New_York')",1,12,7
+Katherine,"('41.48199', '-81.79819', 'Lakewood', 'US', 'America/New_York')",1,11,22
+Travis,"('45.49428', '-122.86705', 'Aloha', 'US', 'America/Los_Angeles')",1,1,4
+Anthony,"('42.24113', '-88.3162', 'Crystal Lake', 'US', 'America/Chicago')",0,22,18
+Michael,"('47.4943', '-122.24092', 'Bryn Mawr-Skyway', 'US', 'America/Los_Angeles')",1,10,21
+Linda,"('39.00622', '-77.4286', 'Sterling', 'US', 'America/New_York')",1,7,8
+Benjamin,"('35.61452', '-88.81395', 'Jackson', 'US', 'America/Chicago')",1,13,4
+Rebekah,"('33.41012', '-91.06177', 'Greenville', 'US', 'America/Chicago')",0,11,3
+Charles,"('39.78504', '-85.76942', 'Greenfield', 'US', 'America/Indiana/Indianapolis')",1,22,8
+John,"('40.34912', '-111.90466', 'Saratoga Springs', 'US', 'America/Denver')",0,13,20
+Joseph,"('37.95143', '-91.77127', 'Rolla', 'US', 'America/Chicago')",1,11,9
+Emily,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",0,7,22
+Carrie,"('28.90054', '-81.26367', 'Deltona', 'US', 'America/New_York')",0,10,7
+Andrew,"('33.44872', '-86.78777', 'Vestavia Hills', 'US', 'America/Chicago')",1,20,16
+Jesse,"('39.00622', '-77.4286', 'Sterling', 'US', 'America/New_York')",1,4,23
+Michael,"('34.95303', '-120.43572', 'Santa Maria', 'US', 'America/Los_Angeles')",0,22,10
+Austin,"('39.08367', '-84.50855', 'Covington', 'US', 'America/New_York')",1,23,13
+Monique,"('34.09611', '-118.10583', 'San Gabriel', 'US', 'America/Los_Angeles')",0,8,17
+Gary,"('41.85059', '-87.882', 'Westchester', 'US', 'America/Chicago')",0,7,5
+Teresa,"('41.55815', '-73.0515', 'Waterbury', 'US', 'America/New_York')",1,11,9
+Heather,"('34.09668', '-117.71978', 'Claremont', 'US', 'America/Los_Angeles')",1,1,3
+Stephanie,"('39.08367', '-84.50855', 'Covington', 'US', 'America/New_York')",0,11,13
+Karen,"('40.58654', '-122.39168', 'Redding', 'US', 'America/Los_Angeles')",0,12,17
+Glenda,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",1,16,11
+Brian,"('33.98154', '-81.23621', 'Lexington', 'US', 'America/New_York')",0,20,24
+Matthew,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",1,16,12
+Kevin,"('34.14251', '-118.25508', 'Glendale', 'US', 'America/Los_Angeles')",0,10,20
+Leroy,"('47.38093', '-122.23484', 'Kent', 'US', 'America/Los_Angeles')",0,4,2
+George,"('45.16024', '-93.08883', 'Lino Lakes', 'US', 'America/Chicago')",0,2,3
+Mitchell,"('41.9001', '-71.08977', 'Taunton', 'US', 'America/New_York')",0,19,9
+Randy,"('39.45621', '-77.96389', 'Martinsburg', 'US', 'America/New_York')",1,3,17
+Brandon,"('31.12406', '-97.90308', 'Copperas Cove', 'US', 'America/Chicago')",0,13,11
+David,"('42.52787', '-70.92866', 'Peabody', 'US', 'America/New_York')",0,21,4
+Audrey,"('39.00622', '-77.4286', 'Sterling', 'US', 'America/New_York')",1,8,24
+Kelly,"('41.48199', '-81.79819', 'Lakewood', 'US', 'America/New_York')",0,22,18
+Andrea,"('33.95015', '-118.03917', 'South Whittier', 'US', 'America/Los_Angeles')",1,4,9
+Jessica,"('39.45621', '-77.96389', 'Martinsburg', 'US', 'America/New_York')",1,11,11
+Peter,"('41.84364', '-87.71255', 'South Lawndale', 'US', 'America/Chicago')",0,21,24
+Elizabeth,"('41.57721', '-93.71133', 'West Des Moines', 'US', 'America/Chicago')",1,0,3
+Alex,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",0,17,1
+Susan,"('30.16688', '-96.39774', 'Brenham', 'US', 'America/Chicago')",0,13,13
+Chad,"('31.76212', '-95.63079', 'Palestine', 'US', 'America/Chicago')",1,10,10
+Douglas,"('30.5427', '-97.54667', 'Hutto', 'US', 'America/Chicago')",1,13,22
+Kyle,"('38.17492', '-122.2608', 'American Canyon', 'US', 'America/Los_Angeles')",0,21,6
+Kyle,"('40.68066', '-73.47429', 'Massapequa', 'US', 'America/New_York')",0,3,18
+Michelle,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",1,14,24
+Jason,"('39.71734', '-74.96933', 'Sicklerville', 'US', 'America/New_York')",1,18,14
+Tracy,"('26.91756', '-82.07842', 'Punta Gorda Isles', 'US', 'America/New_York')",1,16,23
+Rhonda,"('39.96097', '-75.60804', 'West Chester', 'US', 'America/New_York')",1,4,17
+Theresa,"('31.76212', '-95.63079', 'Palestine', 'US', 'America/Chicago')",0,0,19
+Michael,"('32.35126', '-95.30106', 'Tyler', 'US', 'America/Chicago')",0,4,16
+Matthew,"('41.66394', '-83.55521', 'Toledo', 'US', 'America/New_York')",0,11,14
+Billy,"('41.84364', '-87.71255', 'South Lawndale', 'US', 'America/Chicago')",0,2,24
+Gina,"('40.34912', '-111.90466', 'Saratoga Springs', 'US', 'America/Denver')",0,22,11
+Jeanette,"('36.06523', '-119.01677', 'Porterville', 'US', 'America/Los_Angeles')",1,18,12
+Natasha,"('43.54072', '-116.56346', 'Nampa', 'US', 'America/Boise')",1,7,7
+Benjamin,"('40.67705', '-73.89125', 'Cypress Hills', 'US', 'America/New_York')",1,11,5
+Jessica,"('42.58342', '-71.8023', 'Fitchburg', 'US', 'America/New_York')",1,3,1
+John,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",0,5,9
+Crystal,"('33.93113', '-117.54866', 'Norco', 'US', 'America/Los_Angeles')",1,0,2
+Lori,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",0,3,9
+Breanna,"('32.52515', '-93.75018', 'Shreveport', 'US', 'America/Chicago')",0,13,16
+Eric,"('41.85059', '-87.882', 'Westchester', 'US', 'America/Chicago')",0,3,1
+Colleen,"('34.09611', '-118.10583', 'San Gabriel', 'US', 'America/Los_Angeles')",1,7,10
+Paula,"('43.91452', '-69.96533', 'Brunswick', 'US', 'America/New_York')",0,0,22
+Larry,"('40.67705', '-73.89125', 'Cypress Hills', 'US', 'America/New_York')",0,3,1
+Joseph,"('37.60876', '-77.37331', 'Mechanicsville', 'US', 'America/New_York')",0,5,21
+Erin,"('41.47892', '-87.45476', 'Schererville', 'US', 'America/Chicago')",0,12,7
+Kevin,"('26.68451', '-80.66756', 'Belle Glade', 'US', 'America/New_York')",1,10,4
+Scott,"('29.53885', '-95.44744', 'Fresno', 'US', 'America/Chicago')",0,10,18
+Amanda,"('34.09611', '-118.10583', 'San Gabriel', 'US', 'America/Los_Angeles')",0,10,22
+Zachary,"('41.24255', '-82.61573', 'Norwalk', 'US', 'America/New_York')",1,7,3
+Matthew,"('40.5576', '-74.28459', 'Woodbridge', 'US', 'America/New_York')",0,15,8
+Taylor,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",1,13,4
+Danielle,"('26.18924', '-98.15529', 'San Juan', 'US', 'America/Chicago')",0,15,21
+Shawn,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",1,18,9
+Jason,"('40.81', '-73.9625', 'Morningside Heights', 'US', 'America/New_York')",0,18,19
+Dennis,"('40.68066', '-73.47429', 'Massapequa', 'US', 'America/New_York')",0,5,14
+Ann,"('45.49428', '-122.86705', 'Aloha', 'US', 'America/Los_Angeles')",0,0,9
+Michelle,"('40.72816', '-74.07764', 'Jersey City', 'US', 'America/New_York')",1,5,16
+Sarah,"('34.14251', '-118.25508', 'Glendale', 'US', 'America/Los_Angeles')",0,2,18
+David,"('41.72059', '-87.70172', 'Evergreen Park', 'US', 'America/Chicago')",0,18,13
+Zachary,"('41.9001', '-71.08977', 'Taunton', 'US', 'America/New_York')",0,22,2
+Kayla,"('38.58894', '-89.99038', 'Fairview Heights', 'US', 'America/Chicago')",1,6,2
+Lisa,"('42.30865', '-83.48216', 'Canton', 'US', 'America/Detroit')",0,8,14
+Heidi,"('34.14251', '-118.25508', 'Glendale', 'US', 'America/Los_Angeles')",0,3,23
+Valerie,"('33.03699', '-117.29198', 'Encinitas', 'US', 'America/Los_Angeles')",1,6,8
+Jennifer,"('41.75338', '-86.11084', 'Granger', 'US', 'America/Indiana/Indianapolis')",0,20,3
+Frank,"('28.90054', '-81.26367', 'Deltona', 'US', 'America/New_York')",1,22,15
+Jose,"('32.9156', '-117.14392', 'Mira Mesa', 'US', 'America/Los_Angeles')",0,7,15
+Anthony,"('47.80527', '-122.24064', 'Bothell West', 'US', 'America/Los_Angeles')",1,19,19
+Kayla,"('40.67705', '-73.89125', 'Cypress Hills', 'US', 'America/New_York')",1,14,3
+Nicole,"('38.96372', '-76.99081', 'Chillum', 'US', 'America/New_York')",0,5,6
+Jillian,"('47.64995', '-117.23991', 'Opportunity', 'US', 'America/Los_Angeles')",0,3,16
+Jill,"('33.72255', '-116.37697', 'Palm Desert', 'US', 'America/Los_Angeles')",1,0,12
+Jeffrey,"('44.73941', '-93.12577', 'Rosemount', 'US', 'America/Chicago')",1,2,6
+Jeffrey,"('42.58342', '-71.8023', 'Fitchburg', 'US', 'America/New_York')",1,6,15
+Alicia,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",0,11,1
+Zachary,"('40.72816', '-74.07764', 'Jersey City', 'US', 'America/New_York')",0,10,11
+Danielle,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",1,9,10
+Rachel,"('33.44872', '-86.78777', 'Vestavia Hills', 'US', 'America/Chicago')",1,3,17
+John,"('41.55815', '-73.0515', 'Waterbury', 'US', 'America/New_York')",1,22,17
+Robert,"('33.92946', '-116.97725', 'Beaumont', 'US', 'America/Los_Angeles')",0,9,15
+George,"('39.43534', '-84.20299', 'Lebanon', 'US', 'America/New_York')",0,0,22
+Jennifer,"('41.14676', '-73.49484', 'New Canaan', 'US', 'America/New_York')",1,23,24
+Dean,"('47.80527', '-122.24064', 'Bothell West', 'US', 'America/Los_Angeles')",1,15,9
+Allison,"('39.71734', '-74.96933', 'Sicklerville', 'US', 'America/New_York')",1,11,8
+Rebecca,"('39.72943', '-104.83192', 'Aurora', 'US', 'America/Denver')",1,19,20
+Nicole,"('32.44874', '-99.73314', 'Abilene', 'US', 'America/Chicago')",1,23,17
+Kyle,"('26.68451', '-80.66756', 'Belle Glade', 'US', 'America/New_York')",1,18,20
+Matthew,"('41.8542', '-87.66561', 'Lower West Side', 'US', 'America/Chicago')",0,23,19
+Joshua,"('42.97086', '-82.42491', 'Port Huron', 'US', 'America/Detroit')",0,8,22
+Sara,"('40.72371', '-73.95097', 'Greenpoint', 'US', 'America/New_York')",1,3,14
+Isaiah,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",0,10,19
+Christopher,"('37.71715', '-122.40433', 'Visitacion Valley', 'US', 'America/Los_Angeles')",0,21,11
+Megan,"('42.58342', '-71.8023', 'Fitchburg', 'US', 'America/New_York')",0,17,15
+Felicia,"('47.38093', '-122.23484', 'Kent', 'US', 'America/Los_Angeles')",0,19,20
+Dominique,"('41.8542', '-87.66561', 'Lower West Side', 'US', 'America/Chicago')",0,11,7
+Rebecca,"('40.65995', '-111.99633', 'Kearns', 'US', 'America/Denver')",1,14,15
+Christian,"('31.12406', '-97.90308', 'Copperas Cove', 'US', 'America/Chicago')",1,15,10
+Angelica,"('33.03699', '-117.29198', 'Encinitas', 'US', 'America/Los_Angeles')",1,13,17
+Brian,"('46.09273', '-88.64235', 'Iron River', 'US', 'America/Menominee')",0,18,11
+Jaime,"('39.08367', '-84.50855', 'Covington', 'US', 'America/New_York')",1,23,18
+Anne,"('45.16024', '-93.08883', 'Lino Lakes', 'US', 'America/Chicago')",1,17,8
+Daniel,"('41.0051', '-73.78458', 'Scarsdale', 'US', 'America/New_York')",0,4,17
+Stacy,"('46.32374', '-120.00865', 'Sunnyside', 'US', 'America/Los_Angeles')",1,4,14
+John,"('41.9001', '-71.08977', 'Taunton', 'US', 'America/New_York')",0,13,19
+Sean,"('41.66394', '-83.55521', 'Toledo', 'US', 'America/New_York')",1,2,4
+Kimberly,"('42.97086', '-82.42491', 'Port Huron', 'US', 'America/Detroit')",0,18,20
+Eduardo,"('38.70734', '-77.02303', 'Fort Washington', 'US', 'America/New_York')",0,17,17
+Cynthia,"('42.58342', '-71.8023', 'Fitchburg', 'US', 'America/New_York')",0,7,13
+Margaret,"('41.66394', '-83.55521', 'Toledo', 'US', 'America/New_York')",1,16,3
+Sharon,"('40.24537', '-75.64963', 'Pottstown', 'US', 'America/New_York')",1,13,5
+Patricia,"('33.45122', '-86.99666', 'Hueytown', 'US', 'America/Chicago')",1,23,1
+Austin,"('42.93369', '-72.27814', 'Keene', 'US', 'America/New_York')",1,0,9
+Jerry,"('42.30865', '-83.48216', 'Canton', 'US', 'America/Detroit')",1,9,19
+David,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",1,23,8
+Erin,"('33.76446', '-117.79394', 'North Tustin', 'US', 'America/Los_Angeles')",1,17,16
+Kara,"('32.42067', '-104.22884', 'Carlsbad', 'US', 'America/Denver')",0,8,12
+Bradley,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",0,9,8
+Kerri,"('42.4251', '-71.06616', 'Malden', 'US', 'America/New_York')",0,7,8
+James,"('35.25064', '-91.73625', 'Searcy', 'US', 'America/Chicago')",0,13,10
+Rita,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",0,17,9
+Melissa,"('34.25628', '-78.04471', 'Leland', 'US', 'America/New_York')",0,3,11
+Beth,"('35.05266', '-78.87836', 'Fayetteville', 'US', 'America/New_York')",1,18,14
+Michael,"('36.61033', '-88.31476', 'Murray', 'US', 'America/Chicago')",0,10,1
+Madison,"('38.06084', '-97.92977', 'Hutchinson', 'US', 'America/Chicago')",0,12,16
+Brandon,"('40.65538', '-74.38987', 'Scotch Plains', 'US', 'America/New_York')",1,3,10
+Selena,"('28.54944', '-81.77285', 'Clermont', 'US', 'America/New_York')",0,21,5
+James,"('40.57788', '-73.95958', 'Brighton Beach', 'US', 'America/New_York')",1,4,4
+Fernando,"('35.88264', '-80.08199', 'Thomasville', 'US', 'America/New_York')",1,2,19
+William,"('42.24113', '-88.3162', 'Crystal Lake', 'US', 'America/Chicago')",1,12,3
+Calvin,"('30.17746', '-81.38758', 'Palm Valley', 'US', 'America/New_York')",1,11,16
+Nathan,"('39.32288', '-76.72803', 'Woodlawn', 'US', 'America/New_York')",0,14,14
+David,"('40.24537', '-75.64963', 'Pottstown', 'US', 'America/New_York')",1,15,3
+Victoria,"('35.88264', '-80.08199', 'Thomasville', 'US', 'America/New_York')",0,16,19
+Dorothy,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",1,22,1
+Melissa,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",1,4,4
+Darryl,"('31.84568', '-102.36764', 'Odessa', 'US', 'America/Chicago')",1,1,9
+Tyler,"('34.77453', '-96.67834', 'Ada', 'US', 'America/Chicago')",0,15,13
+Tiffany,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",0,9,11
+Isabella,"('40.64621', '-73.97069', 'Kensington', 'US', 'America/New_York')",0,11,3
+Michele,"('34.06635', '-84.67837', 'Acworth', 'US', 'America/New_York')",1,23,11
+Daniel,"('39.32011', '-76.51552', 'Rosedale', 'US', 'America/New_York')",0,1,23
+Craig,"('33.98154', '-81.23621', 'Lexington', 'US', 'America/New_York')",0,22,13
+Laura,"('42.52787', '-70.92866', 'Peabody', 'US', 'America/New_York')",0,1,9
+John,"('46.09273', '-88.64235', 'Iron River', 'US', 'America/Menominee')",1,20,23
+Diane,"('44.73941', '-93.12577', 'Rosemount', 'US', 'America/Chicago')",1,12,3
+Jeffery,"('45.16024', '-93.08883', 'Lino Lakes', 'US', 'America/Chicago')",1,14,11
+Renee,"('39.45621', '-77.96389', 'Martinsburg', 'US', 'America/New_York')",1,0,13
+Amy,"('33.03699', '-117.29198', 'Encinitas', 'US', 'America/Los_Angeles')",1,7,9
+Veronica,"('47.80527', '-122.24064', 'Bothell West', 'US', 'America/Los_Angeles')",0,14,7
+Thomas,"('42.4251', '-71.06616', 'Malden', 'US', 'America/New_York')",1,12,22
+Sara,"('39.32011', '-76.51552', 'Rosedale', 'US', 'America/New_York')",1,22,19
+Tammy,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",1,13,5
+Dawn,"('26.91756', '-82.07842', 'Punta Gorda Isles', 'US', 'America/New_York')",1,6,12
+Paula,"('29.53885', '-95.44744', 'Fresno', 'US', 'America/Chicago')",1,5,23
+Dawn,"('29.65163', '-82.32483', 'Gainesville', 'US', 'America/New_York')",1,3,18
+Brooke,"('26.18924', '-98.15529', 'San Juan', 'US', 'America/Chicago')",1,6,11
+Katelyn,"('27.09978', '-82.45426', 'Venice', 'US', 'America/New_York')",1,23,2
+Gabriela,"('33.45122', '-86.99666', 'Hueytown', 'US', 'America/Chicago')",0,1,4
+Patricia,"('43.61062', '-72.97261', 'Rutland', 'US', 'America/New_York')",1,20,20
+James,"('38.70734', '-77.02303', 'Fort Washington', 'US', 'America/New_York')",0,2,12
+Isaiah,"('40.65995', '-111.99633', 'Kearns', 'US', 'America/Denver')",0,6,7
+Robert,"('39.32011', '-76.51552', 'Rosedale', 'US', 'America/New_York')",0,1,22
+Alyssa,"('44.73941', '-93.12577', 'Rosemount', 'US', 'America/Chicago')",0,6,15
+Joseph,"('37.60876', '-77.37331', 'Mechanicsville', 'US', 'America/New_York')",1,12,18
+Patrick,"('33.95015', '-118.03917', 'South Whittier', 'US', 'America/Los_Angeles')",1,12,11
+Christine,"('41.57721', '-93.71133', 'West Des Moines', 'US', 'America/Chicago')",1,3,6
+Ryan,"('41.24255', '-82.61573', 'Norwalk', 'US', 'America/New_York')",1,14,19
+Robert,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",0,13,20
+Christopher,"('20.88953', '-156.47432', 'Kahului', 'US', 'Pacific/Honolulu')",1,19,8
+Karen,"('37.60876', '-77.37331', 'Mechanicsville', 'US', 'America/New_York')",1,16,16
+Ann,"('30.16688', '-96.39774', 'Brenham', 'US', 'America/Chicago')",1,6,12
+Stephanie,"('20.88953', '-156.47432', 'Kahului', 'US', 'Pacific/Honolulu')",1,9,10
+Robert,"('47.80527', '-122.24064', 'Bothell West', 'US', 'America/Los_Angeles')",1,4,3
+Tracy,"('43.91452', '-69.96533', 'Brunswick', 'US', 'America/New_York')",0,14,6
+Jillian,"('40.68066', '-73.47429', 'Massapequa', 'US', 'America/New_York')",0,5,24
+Jimmy,"('34.09668', '-117.71978', 'Claremont', 'US', 'America/Los_Angeles')",1,1,5
+Joan,"('42.58342', '-71.8023', 'Fitchburg', 'US', 'America/New_York')",0,8,19
+Christopher,"('34.21639', '-119.0376', 'Camarillo', 'US', 'America/Los_Angeles')",1,12,16
+Kevin,"('41.54566', '-71.29144', 'Middletown', 'US', 'America/New_York')",0,3,14
+Joshua,"('41.0051', '-73.78458', 'Scarsdale', 'US', 'America/New_York')",1,21,11
+Adam,"('27.71809', '-82.35176', 'Sun City Center', 'US', 'America/New_York')",0,12,1
+Tiffany,"('47.64995', '-117.23991', 'Opportunity', 'US', 'America/Los_Angeles')",1,17,13
+Erin,"('35.74788', '-95.36969', 'Muskogee', 'US', 'America/Chicago')",1,11,23
+Rachel,"('41.57721', '-93.71133', 'West Des Moines', 'US', 'America/Chicago')",1,21,19
+Anthony,"('40.63316', '-74.13653', 'Port Richmond', 'US', 'America/New_York')",0,15,10
+Teresa,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",1,18,16
+Andrew,"('42.30865', '-83.48216', 'Canton', 'US', 'America/Detroit')",1,10,21
+George,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",0,12,17
+Frank,"('41.54566', '-71.29144', 'Middletown', 'US', 'America/New_York')",0,1,5
+Daniel,"('34.14251', '-118.25508', 'Glendale', 'US', 'America/Los_Angeles')",1,21,16
+Melissa,"('33.35283', '-111.78903', 'Gilbert', 'US', 'America/Phoenix')",1,14,6
+Justin,"('39.32288', '-76.72803', 'Woodlawn', 'US', 'America/New_York')",0,18,14
+Alexis,"('35.74788', '-95.36969', 'Muskogee', 'US', 'America/Chicago')",0,12,4
+Mary,"('32.44874', '-99.73314', 'Abilene', 'US', 'America/Chicago')",0,9,15
+Daniel,"('38.70734', '-77.02303', 'Fort Washington', 'US', 'America/New_York')",0,6,23
+Stephanie,"('41.80753', '-87.65644', 'New City', 'US', 'America/Chicago')",1,2,2
+Denise,"('45.53929', '-122.38731', 'Troutdale', 'US', 'America/Los_Angeles')",1,15,23
+James,"('28.90054', '-81.26367', 'Deltona', 'US', 'America/New_York')",0,22,24
+Jon,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",0,9,20
+Timothy,"('26.68451', '-80.66756', 'Belle Glade', 'US', 'America/New_York')",1,6,19
+Jennifer,"('42.55308', '-87.93341', 'Pleasant Prairie', 'US', 'America/Chicago')",1,6,21
+Elijah,"('34.09668', '-117.71978', 'Claremont', 'US', 'America/Los_Angeles')",1,23,21
+Timothy,"('40.34912', '-111.90466', 'Saratoga Springs', 'US', 'America/Denver')",0,14,15
+Corey,"('43.61062', '-72.97261', 'Rutland', 'US', 'America/New_York')",0,16,14
+Lawrence,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",1,19,5
+Caitlyn,"('34.77453', '-96.67834', 'Ada', 'US', 'America/Chicago')",0,4,9
+Natalie,"('38.70734', '-77.02303', 'Fort Washington', 'US', 'America/New_York')",1,19,24
+Janet,"('31.76212', '-95.63079', 'Palestine', 'US', 'America/Chicago')",0,7,16
+Carolyn,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",1,17,16
+Michael,"('28.90054', '-81.26367', 'Deltona', 'US', 'America/New_York')",1,6,13
+Natalie,"('33.35283', '-111.78903', 'Gilbert', 'US', 'America/Phoenix')",1,6,17
+Alicia,"('33.08014', '-83.2321', 'Milledgeville', 'US', 'America/New_York')",0,11,15
+James,"('26.68451', '-80.66756', 'Belle Glade', 'US', 'America/New_York')",0,19,14
+Amanda,"('38.54491', '-121.74052', 'Davis', 'US', 'America/Los_Angeles')",0,12,12
+Valerie,"('40.64621', '-73.97069', 'Kensington', 'US', 'America/New_York')",1,21,12
+Jon,"('41.16704', '-73.20483', 'Bridgeport', 'US', 'America/New_York')",0,11,5
+Barry,"('42.52787', '-70.92866', 'Peabody', 'US', 'America/New_York')",1,6,4
+Keith,"('42.97086', '-82.42491', 'Port Huron', 'US', 'America/Detroit')",0,13,12
+Bernard,"('47.38093', '-122.23484', 'Kent', 'US', 'America/Los_Angeles')",1,18,12
+Kenneth,"('39.32288', '-76.72803', 'Woodlawn', 'US', 'America/New_York')",1,15,18
+Erica,"('32.54044', '-82.90375', 'Dublin', 'US', 'America/New_York')",0,12,24
+Megan,"('30.17746', '-81.38758', 'Palm Valley', 'US', 'America/New_York')",0,6,4
+Brian,"('34.95303', '-120.43572', 'Santa Maria', 'US', 'America/Los_Angeles')",0,13,14
+Anthony,"('41.15376', '-87.88754', 'Bourbonnais', 'US', 'America/Chicago')",1,19,9
+Taylor,"('41.47892', '-87.45476', 'Schererville', 'US', 'America/Chicago')",1,18,16
+Teresa,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",0,8,18
+Isabel,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",0,8,3
+Tina,"('40.24537', '-75.64963', 'Pottstown', 'US', 'America/New_York')",0,12,7
+David,"('32.9156', '-117.14392', 'Mira Mesa', 'US', 'America/Los_Angeles')",1,4,18
+Jonathon,"('44.99012', '-123.02621', 'Keizer', 'US', 'America/Los_Angeles')",1,12,8
+Brian,"('28.54944', '-81.77285', 'Clermont', 'US', 'America/New_York')",1,19,22
+Jennifer,"('38.70734', '-77.02303', 'Fort Washington', 'US', 'America/New_York')",1,7,16
+John,"('39.71734', '-74.96933', 'Sicklerville', 'US', 'America/New_York')",0,17,16
+Melinda,"('40.81', '-73.9625', 'Morningside Heights', 'US', 'America/New_York')",0,5,10
+Elizabeth,"('42.35843', '-71.05977', 'Boston', 'US', 'America/New_York')",0,7,21
+Alexandra,"('41.15376', '-87.88754', 'Bourbonnais', 'US', 'America/Chicago')",0,16,21
+Julia,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",0,22,1
+Laura,"('45.53929', '-122.38731', 'Troutdale', 'US', 'America/Los_Angeles')",1,11,7
+Stephen,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",0,11,8
+Ashley,"('42.7392', '-84.62081', 'Waverly', 'US', 'America/Detroit')",0,3,18
+Jennifer,"('40.94065', '-73.99681', 'Dumont', 'US', 'America/New_York')",0,0,4
+Donna,"('42.55308', '-87.93341', 'Pleasant Prairie', 'US', 'America/Chicago')",1,19,14
+Yvette,"('39.96097', '-75.60804', 'West Chester', 'US', 'America/New_York')",0,23,7
+Elizabeth,"('34.14251', '-118.25508', 'Glendale', 'US', 'America/Los_Angeles')",1,23,10
+Cynthia,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",0,22,9
+Jeffrey,"('41.50343', '-74.01042', 'Newburgh', 'US', 'America/New_York')",0,7,11
+Kimberly,"('43.54072', '-116.56346', 'Nampa', 'US', 'America/Boise')",1,9,8
+Brooke,"('36.20829', '-115.98391', 'Pahrump', 'US', 'America/Los_Angeles')",1,20,17
+Stacy,"('35.05266', '-78.87836', 'Fayetteville', 'US', 'America/New_York')",1,9,15
+Jessica,"('43.91452', '-69.96533', 'Brunswick', 'US', 'America/New_York')",1,8,12
+Samuel,"('30.5427', '-97.54667', 'Hutto', 'US', 'America/Chicago')",0,2,14
+Amy,"('33.98154', '-81.23621', 'Lexington', 'US', 'America/New_York')",0,10,10
+Lauren,"('45.49428', '-122.86705', 'Aloha', 'US', 'America/Los_Angeles')",0,22,13
+Maria,"('41.9001', '-71.08977', 'Taunton', 'US', 'America/New_York')",0,21,2
+Brian,"('40.68066', '-73.47429', 'Massapequa', 'US', 'America/New_York')",0,11,10
+Curtis,"('36.61033', '-88.31476', 'Murray', 'US', 'America/Chicago')",0,23,12
+Lisa,"('28.90054', '-81.26367', 'Deltona', 'US', 'America/New_York')",0,21,5
+John,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",1,13,17
+David,"('47.38093', '-122.23484', 'Kent', 'US', 'America/Los_Angeles')",1,3,3
+Christopher,"('42.30865', '-83.48216', 'Canton', 'US', 'America/Detroit')",0,18,10
+Christina,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",1,15,20
+Luke,"('29.65163', '-82.32483', 'Gainesville', 'US', 'America/New_York')",1,9,2
+Joe,"('43.61062', '-72.97261', 'Rutland', 'US', 'America/New_York')",0,19,18
+Victor,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",1,21,22
+Ronald,"('34.06635', '-84.67837', 'Acworth', 'US', 'America/New_York')",0,0,4
+Monica,"('33.03699', '-117.29198', 'Encinitas', 'US', 'America/Los_Angeles')",0,6,12
+Justin,"('30.17746', '-81.38758', 'Palm Valley', 'US', 'America/New_York')",0,22,12
+Thomas,"('26.91756', '-82.07842', 'Punta Gorda Isles', 'US', 'America/New_York')",1,15,6
+Suzanne,"('38.70734', '-77.02303', 'Fort Washington', 'US', 'America/New_York')",0,13,5
+Julie,"('42.16808', '-88.42814', 'Huntley', 'US', 'America/Chicago')",1,15,20
+Alyssa,"('41.9001', '-71.08977', 'Taunton', 'US', 'America/New_York')",0,9,5
+Jeffery,"('34.63915', '-120.45794', 'Lompoc', 'US', 'America/Los_Angeles')",0,8,11
+Robert,"('41.15376', '-87.88754', 'Bourbonnais', 'US', 'America/Chicago')",0,6,3
+Jessica,"('33.08014', '-83.2321', 'Milledgeville', 'US', 'America/New_York')",1,12,6
+William,"('40.63316', '-74.13653', 'Port Richmond', 'US', 'America/New_York')",1,19,24
+John,"('33.72255', '-116.37697', 'Palm Desert', 'US', 'America/Los_Angeles')",1,7,22
+Tracy,"('34.09668', '-117.71978', 'Claremont', 'US', 'America/Los_Angeles')",0,11,12
+Kimberly,"('39.96097', '-75.60804', 'West Chester', 'US', 'America/New_York')",0,21,24
+Timothy,"('29.53885', '-95.44744', 'Fresno', 'US', 'America/Chicago')",1,9,11
+William,"('42.35843', '-71.05977', 'Boston', 'US', 'America/New_York')",0,12,1
+Rhonda,"('39.78504', '-85.76942', 'Greenfield', 'US', 'America/Indiana/Indianapolis')",0,1,2
+Anthony,"('40.65995', '-111.99633', 'Kearns', 'US', 'America/Denver')",0,11,19
+Austin,"('36.20829', '-115.98391', 'Pahrump', 'US', 'America/Los_Angeles')",0,20,17
+Seth,"('41.27621', '-72.86843', 'East Haven', 'US', 'America/New_York')",1,4,10
+Nicole,"('41.8542', '-87.66561', 'Lower West Side', 'US', 'America/Chicago')",1,7,23
+Michael,"('36.91023', '-121.75689', 'Watsonville', 'US', 'America/Los_Angeles')",0,10,8
+Kaylee,"('40.81', '-73.9625', 'Morningside Heights', 'US', 'America/New_York')",1,22,3
+Austin,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",0,14,6
+Jessica,"('26.68451', '-80.66756', 'Belle Glade', 'US', 'America/New_York')",1,10,21
+Amy,"('41.24255', '-82.61573', 'Norwalk', 'US', 'America/New_York')",1,1,2
+Karina,"('38.70734', '-77.02303', 'Fort Washington', 'US', 'America/New_York')",0,10,3
+Isabella,"('33.72255', '-116.37697', 'Palm Desert', 'US', 'America/Los_Angeles')",1,23,8
+Alex,"('34.95303', '-120.43572', 'Santa Maria', 'US', 'America/Los_Angeles')",0,21,1
+Emily,"('46.32374', '-120.00865', 'Sunnyside', 'US', 'America/Los_Angeles')",0,16,6
+Christian,"('40.81', '-73.9625', 'Morningside Heights', 'US', 'America/New_York')",0,0,14
+Sean,"('41.80753', '-87.65644', 'New City', 'US', 'America/Chicago')",1,10,23
+Seth,"('41.57721', '-93.71133', 'West Des Moines', 'US', 'America/Chicago')",0,4,13
+Mark,"('39.33427', '-76.43941', 'Middle River', 'US', 'America/New_York')",0,3,16
+Kimberly,"('42.97086', '-82.42491', 'Port Huron', 'US', 'America/Detroit')",1,15,21
+Alicia,"('40.68066', '-73.47429', 'Massapequa', 'US', 'America/New_York')",0,4,4
+Richard,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",0,23,3
+Kelli,"('33.03699', '-117.29198', 'Encinitas', 'US', 'America/Los_Angeles')",0,0,18
+Caitlin,"('41.85059', '-87.882', 'Westchester', 'US', 'America/Chicago')",0,23,11
+Nathan,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",0,14,16
+Michael,"('36.20829', '-115.98391', 'Pahrump', 'US', 'America/Los_Angeles')",0,11,2
+Reginald,"('46.09273', '-88.64235', 'Iron River', 'US', 'America/Menominee')",1,12,15
+Edward,"('39.00622', '-77.4286', 'Sterling', 'US', 'America/New_York')",0,9,9
+Erik,"('40.93121', '-73.89875', 'Yonkers', 'US', 'America/New_York')",1,16,6
+Joshua,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",1,10,11
+Peter,"('40.94065', '-73.99681', 'Dumont', 'US', 'America/New_York')",1,8,7
+Lauren,"('42.52787', '-70.92866', 'Peabody', 'US', 'America/New_York')",0,5,7
+Jared,"('40.64621', '-73.97069', 'Kensington', 'US', 'America/New_York')",1,9,12
+Shelly,"('41.57721', '-93.71133', 'West Des Moines', 'US', 'America/Chicago')",1,14,16
+Tara,"('41.8542', '-87.66561', 'Lower West Side', 'US', 'America/Chicago')",1,17,16
+Rachel,"('41.55815', '-73.0515', 'Waterbury', 'US', 'America/New_York')",0,19,18
+Autumn,"('45.49428', '-122.86705', 'Aloha', 'US', 'America/Los_Angeles')",0,18,14
+Nathan,"('33.54428', '-84.23381', 'Stockbridge', 'US', 'America/New_York')",0,9,2
+Carolyn,"('41.54566', '-71.29144', 'Middletown', 'US', 'America/New_York')",1,1,4
+Thomas,"('26.2173', '-80.22588', 'North Lauderdale', 'US', 'America/New_York')",0,21,5
+Sonia,"('41.47892', '-87.45476', 'Schererville', 'US', 'America/Chicago')",0,7,20
+Jean,"('26.18924', '-98.15529', 'San Juan', 'US', 'America/Chicago')",0,12,6
+Sharon,"('25.67927', '-80.31727', 'Kendall', 'US', 'America/New_York')",1,0,15
+Kevin,"('30.5427', '-97.54667', 'Hutto', 'US', 'America/Chicago')",0,20,13
+Dawn,"('42.55308', '-87.93341', 'Pleasant Prairie', 'US', 'America/Chicago')",1,6,10
+Gary,"('37.52487', '-77.55777', 'Bon Air', 'US', 'America/New_York')",1,4,14
+Laura,"('35.88264', '-80.08199', 'Thomasville', 'US', 'America/New_York')",0,12,10
+John,"('39.78504', '-85.76942', 'Greenfield', 'US', 'America/Indiana/Indianapolis')",1,15,21
+David,"('42.55308', '-87.93341', 'Pleasant Prairie', 'US', 'America/Chicago')",0,10,7
+Hunter,"('40.24537', '-75.64963', 'Pottstown', 'US', 'America/New_York')",1,8,2
+Brenda,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",1,8,2
+Mark,"('36.20829', '-115.98391', 'Pahrump', 'US', 'America/Los_Angeles')",0,22,3
+Timothy,"('37.73604', '-120.93549', 'Riverbank', 'US', 'America/Los_Angeles')",1,12,16
+Alicia,"('27.09978', '-82.45426', 'Venice', 'US', 'America/New_York')",1,18,18
+Ronald,"('34.25628', '-78.04471', 'Leland', 'US', 'America/New_York')",1,0,16
+Kyle,"('39.43534', '-84.20299', 'Lebanon', 'US', 'America/New_York')",0,13,4
+Darlene,"('36.06523', '-119.01677', 'Porterville', 'US', 'America/Los_Angeles')",0,18,10
+Richard,"('42.16808', '-88.42814', 'Huntley', 'US', 'America/Chicago')",1,15,14
+Jennifer,"('41.55815', '-73.0515', 'Waterbury', 'US', 'America/New_York')",1,13,12
+Derek,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",0,19,1
+Christina,"('36.06523', '-119.01677', 'Porterville', 'US', 'America/Los_Angeles')",1,3,22
+Allison,"('33.93113', '-117.54866', 'Norco', 'US', 'America/Los_Angeles')",0,3,9
+Daniel,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",1,5,6
+Michael,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",0,18,12
+Tiffany,"('40.72816', '-74.07764', 'Jersey City', 'US', 'America/New_York')",0,11,23
+Justin,"('31.12406', '-97.90308', 'Copperas Cove', 'US', 'America/Chicago')",0,12,18
+Justin,"('41.47892', '-87.45476', 'Schererville', 'US', 'America/Chicago')",0,3,2
+Beth,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",1,22,16
+Maria,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",0,3,10
+Tara,"('32.42067', '-104.22884', 'Carlsbad', 'US', 'America/Denver')",0,9,24
+Beth,"('39.78504', '-85.76942', 'Greenfield', 'US', 'America/Indiana/Indianapolis')",1,18,15
+Daniel,"('47.92526', '-97.03285', 'Grand Forks', 'US', 'America/Chicago')",0,10,15
+Juan,"('47.4943', '-122.24092', 'Bryn Mawr-Skyway', 'US', 'America/Los_Angeles')",1,11,20
+Julie,"('42.52787', '-70.92866', 'Peabody', 'US', 'America/New_York')",0,10,1
+Carlos,"('29.53885', '-95.44744', 'Fresno', 'US', 'America/Chicago')",0,5,21
+William,"('39.43534', '-84.20299', 'Lebanon', 'US', 'America/New_York')",1,16,2
+Joshua,"('47.4943', '-122.24092', 'Bryn Mawr-Skyway', 'US', 'America/Los_Angeles')",0,0,15
+Donna,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",0,22,14
+Samantha,"('41.0051', '-73.78458', 'Scarsdale', 'US', 'America/New_York')",0,22,6
+Paul,"('40.56754', '-89.64066', 'Pekin', 'US', 'America/Chicago')",1,22,21
+Andrew,"('37.73604', '-120.93549', 'Riverbank', 'US', 'America/Los_Angeles')",0,21,18
+Sandra,"('40.93121', '-73.89875', 'Yonkers', 'US', 'America/New_York')",1,10,8
+Alyssa,"('47.38093', '-122.23484', 'Kent', 'US', 'America/Los_Angeles')",0,17,5
+Thomas,"('37.73604', '-120.93549', 'Riverbank', 'US', 'America/Los_Angeles')",0,10,6
+Melissa,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",0,6,17
+Jennifer,"('41.80753', '-87.65644', 'New City', 'US', 'America/Chicago')",0,3,15
+Joel,"('32.44874', '-99.73314', 'Abilene', 'US', 'America/Chicago')",0,17,13
+Steven,"('35.25064', '-91.73625', 'Searcy', 'US', 'America/Chicago')",1,23,12
+Brandon,"('41.57721', '-93.71133', 'West Des Moines', 'US', 'America/Chicago')",0,12,1
+Daniel,"('34.14251', '-118.25508', 'Glendale', 'US', 'America/Los_Angeles')",0,1,2
+Robert,"('42.16808', '-88.42814', 'Huntley', 'US', 'America/Chicago')",0,2,15
+Patrick,"('42.97086', '-82.42491', 'Port Huron', 'US', 'America/Detroit')",1,6,2
+Ashley,"('36.61033', '-88.31476', 'Murray', 'US', 'America/Chicago')",0,0,7
+Jose,"('33.44872', '-86.78777', 'Vestavia Hills', 'US', 'America/Chicago')",1,16,7
+Wanda,"('32.42067', '-104.22884', 'Carlsbad', 'US', 'America/Denver')",1,17,14
+Mark,"('41.14676', '-73.49484', 'New Canaan', 'US', 'America/New_York')",0,16,17
+Michael,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",0,21,16
+Heather,"('42.24113', '-88.3162', 'Crystal Lake', 'US', 'America/Chicago')",1,12,12
+Nicholas,"('47.38093', '-122.23484', 'Kent', 'US', 'America/Los_Angeles')",1,21,1
+John,"('33.92946', '-116.97725', 'Beaumont', 'US', 'America/Los_Angeles')",0,9,18
+Keith,"('38.17492', '-122.2608', 'American Canyon', 'US', 'America/Los_Angeles')",0,2,13
+Heather,"('36.02506', '-86.77917', 'Brentwood Estates', 'US', 'America/Chicago')",0,18,12
+Stephen,"('39.09112', '-94.41551', 'Independence', 'US', 'America/Chicago')",1,2,20
+Andrew,"('34.95303', '-120.43572', 'Santa Maria', 'US', 'America/Los_Angeles')",1,3,15
+Joshua,"('41.55815', '-73.0515', 'Waterbury', 'US', 'America/New_York')",0,15,21
+Sandra,"('38.54491', '-121.74052', 'Davis', 'US', 'America/Los_Angeles')",0,15,8
+Jose,"('40.68066', '-73.47429', 'Massapequa', 'US', 'America/New_York')",0,16,10
+Alan,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",0,0,2
+James,"('45.49428', '-122.86705', 'Aloha', 'US', 'America/Los_Angeles')",1,0,3
+Jon,"('33.35283', '-111.78903', 'Gilbert', 'US', 'America/Phoenix')",0,18,18
+Kenneth,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",0,3,22
+Nicholas,"('35.61452', '-88.81395', 'Jackson', 'US', 'America/Chicago')",0,3,24
+Thomas,"('39.33427', '-76.43941', 'Middle River', 'US', 'America/New_York')",0,21,1
+Rhonda,"('40.82232', '-74.15987', 'Nutley', 'US', 'America/New_York')",0,4,2
+Rachel,"('43.1009', '-75.23266', 'Utica', 'US', 'America/New_York')",1,6,11
+Jeremy,"('35.74788', '-95.36969', 'Muskogee', 'US', 'America/Chicago')",1,18,16
+Jeremy,"('29.84576', '-90.10674', 'Estelle', 'US', 'America/Chicago')",0,10,15
+Amy,"('46.32374', '-120.00865', 'Sunnyside', 'US', 'America/Los_Angeles')",1,0,9
+George,"('32.44874', '-99.73314', 'Abilene', 'US', 'America/Chicago')",0,12,6
+Erika,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",1,21,2
+Terri,"('47.92526', '-97.03285', 'Grand Forks', 'US', 'America/Chicago')",0,19,3
+Barbara,"('27.09978', '-82.45426', 'Venice', 'US', 'America/New_York')",1,6,17
+Tracy,"('32.9156', '-117.14392', 'Mira Mesa', 'US', 'America/Los_Angeles')",1,19,1
+Michelle,"('33.03699', '-117.29198', 'Encinitas', 'US', 'America/Los_Angeles')",0,17,8
+James,"('43.54072', '-116.56346', 'Nampa', 'US', 'America/Boise')",1,2,3
+Robert,"('47.4943', '-122.24092', 'Bryn Mawr-Skyway', 'US', 'America/Los_Angeles')",1,6,20
+Michael,"('33.41012', '-91.06177', 'Greenville', 'US', 'America/Chicago')",1,11,8
+Thomas,"('26.18924', '-98.15529', 'San Juan', 'US', 'America/Chicago')",0,7,2
+Gerald,"('32.54044', '-82.90375', 'Dublin', 'US', 'America/New_York')",0,4,14
+Tracey,"('29.84576', '-90.10674', 'Estelle', 'US', 'America/Chicago')",0,22,3
+Kathleen,"('33.76446', '-117.79394', 'North Tustin', 'US', 'America/Los_Angeles')",0,16,13
+Kendra,"('33.52253', '-117.70755', 'Laguna Niguel', 'US', 'America/Los_Angeles')",0,10,8
+Nicole,"('47.64995', '-117.23991', 'Opportunity', 'US', 'America/Los_Angeles')",1,11,7
+Meghan,"('40.34912', '-111.90466', 'Saratoga Springs', 'US', 'America/Denver')",1,14,18
+Madison,"('40.81', '-73.9625', 'Morningside Heights', 'US', 'America/New_York')",0,1,14
+Martha,"('40.82232', '-74.15987', 'Nutley', 'US', 'America/New_York')",0,13,22
+Scott,"('40.72816', '-74.07764', 'Jersey City', 'US', 'America/New_York')",1,5,20
+Christopher,"('40.65538', '-74.38987', 'Scotch Plains', 'US', 'America/New_York')",1,17,18
+Connor,"('27.09978', '-82.45426', 'Venice', 'US', 'America/New_York')",0,5,14
+Clayton,"('43.61062', '-72.97261', 'Rutland', 'US', 'America/New_York')",1,15,11
+Robyn,"('38.96372', '-76.99081', 'Chillum', 'US', 'America/New_York')",0,18,5
+Patrick,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",0,6,22
+Thomas,"('33.44872', '-86.78777', 'Vestavia Hills', 'US', 'America/Chicago')",0,15,5
+David,"('33.44872', '-86.78777', 'Vestavia Hills', 'US', 'America/Chicago')",1,5,24
+Olivia,"('42.55308', '-87.93341', 'Pleasant Prairie', 'US', 'America/Chicago')",1,18,18
+John,"('42.93369', '-72.27814', 'Keene', 'US', 'America/New_York')",0,23,18
+Shawn,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",0,15,13
+Carl,"('31.76212', '-95.63079', 'Palestine', 'US', 'America/Chicago')",0,17,16
+Robert,"('33.54428', '-84.23381', 'Stockbridge', 'US', 'America/New_York')",0,21,14
+Kelsey,"('40.65995', '-111.99633', 'Kearns', 'US', 'America/Denver')",0,17,3
+Adam,"('28.54944', '-81.77285', 'Clermont', 'US', 'America/New_York')",1,23,21
+Christina,"('32.44874', '-99.73314', 'Abilene', 'US', 'America/Chicago')",1,21,16
+John,"('43.1009', '-75.23266', 'Utica', 'US', 'America/New_York')",1,15,16
+Kathy,"('45.53929', '-122.38731', 'Troutdale', 'US', 'America/Los_Angeles')",1,0,20
+Madison,"('45.53929', '-122.38731', 'Troutdale', 'US', 'America/Los_Angeles')",0,19,23
+Laura,"('43.61062', '-72.97261', 'Rutland', 'US', 'America/New_York')",1,4,11
+Jeffrey,"('41.6764', '-91.58045', 'Coralville', 'US', 'America/Chicago')",0,6,18
+Michelle,"('39.45621', '-77.96389', 'Martinsburg', 'US', 'America/New_York')",1,4,6
+Kelly,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",0,21,4
+Yvonne,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",0,3,15
+Karen,"('42.30865', '-83.48216', 'Canton', 'US', 'America/Detroit')",0,9,23
+Morgan,"('26.68451', '-80.66756', 'Belle Glade', 'US', 'America/New_York')",0,17,15
+Sue,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",1,19,15
+Geoffrey,"('34.63915', '-120.45794', 'Lompoc', 'US', 'America/Los_Angeles')",1,23,11
+Amy,"('29.84576', '-90.10674', 'Estelle', 'US', 'America/Chicago')",0,13,18
+Kevin,"('42.93369', '-72.27814', 'Keene', 'US', 'America/New_York')",1,9,12
+Anthony,"('37.71715', '-122.40433', 'Visitacion Valley', 'US', 'America/Los_Angeles')",0,23,2
+Jeremy,"('38.91817', '-78.19444', 'Front Royal', 'US', 'America/New_York')",1,13,16
+Tyler,"('32.52515', '-93.75018', 'Shreveport', 'US', 'America/Chicago')",1,18,21
+Christopher,"('44.99012', '-123.02621', 'Keizer', 'US', 'America/Los_Angeles')",0,9,3
+Lori,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",0,14,15
+Matthew,"('34.14251', '-118.25508', 'Glendale', 'US', 'America/Los_Angeles')",0,21,14
+Shane,"('37.95143', '-91.77127', 'Rolla', 'US', 'America/Chicago')",1,21,22
+Timothy,"('30.16688', '-96.39774', 'Brenham', 'US', 'America/Chicago')",1,13,10
+Brent,"('39.72943', '-104.83192', 'Aurora', 'US', 'America/Denver')",1,15,20
+Kevin,"('41.15376', '-87.88754', 'Bourbonnais', 'US', 'America/Chicago')",1,9,4
+Paul,"('43.1009', '-75.23266', 'Utica', 'US', 'America/New_York')",1,14,15
+Jake,"('40.34912', '-111.90466', 'Saratoga Springs', 'US', 'America/Denver')",1,13,24
+Susan,"('45.16024', '-93.08883', 'Lino Lakes', 'US', 'America/Chicago')",1,3,4
+Amber,"('41.50343', '-74.01042', 'Newburgh', 'US', 'America/New_York')",1,0,11
+William,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",1,19,20
+Elizabeth,"('41.24255', '-82.61573', 'Norwalk', 'US', 'America/New_York')",1,22,14
+Mike,"('34.09611', '-118.10583', 'San Gabriel', 'US', 'America/Los_Angeles')",0,1,14
+Michael,"('34.95303', '-120.43572', 'Santa Maria', 'US', 'America/Los_Angeles')",1,9,21
+Victoria,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",1,15,6
+Melissa,"('34.25628', '-78.04471', 'Leland', 'US', 'America/New_York')",0,2,21
+Michael,"('37.52487', '-77.55777', 'Bon Air', 'US', 'America/New_York')",1,1,13
+David,"('31.12406', '-97.90308', 'Copperas Cove', 'US', 'America/Chicago')",0,8,8
+Tracey,"('32.52515', '-93.75018', 'Shreveport', 'US', 'America/Chicago')",0,20,17
+Shaun,"('40.94065', '-73.99681', 'Dumont', 'US', 'America/New_York')",1,18,22
+Christopher,"('42.58342', '-71.8023', 'Fitchburg', 'US', 'America/New_York')",1,16,18
+Michael,"('47.92526', '-97.03285', 'Grand Forks', 'US', 'America/Chicago')",0,12,4
+Kelsey,"('37.60876', '-77.37331', 'Mechanicsville', 'US', 'America/New_York')",0,1,10
+Stephen,"('40.93121', '-73.89875', 'Yonkers', 'US', 'America/New_York')",0,9,2
+Mia,"('41.54566', '-71.29144', 'Middletown', 'US', 'America/New_York')",1,9,19
+Katie,"('45.16024', '-93.08883', 'Lino Lakes', 'US', 'America/Chicago')",0,17,22
+Kimberly,"('41.47892', '-87.45476', 'Schererville', 'US', 'America/Chicago')",1,12,11
+Alexandria,"('39.45621', '-77.96389', 'Martinsburg', 'US', 'America/New_York')",1,22,10
+Jacob,"('40.65538', '-74.38987', 'Scotch Plains', 'US', 'America/New_York')",1,10,15
+Susan,"('31.84568', '-102.36764', 'Odessa', 'US', 'America/Chicago')",0,8,22
+Danielle,"('35.74788', '-95.36969', 'Muskogee', 'US', 'America/Chicago')",1,16,18
+Gary,"('40.65995', '-111.99633', 'Kearns', 'US', 'America/Denver')",1,9,23
+David,"('43.1009', '-75.23266', 'Utica', 'US', 'America/New_York')",1,22,7
+Steven,"('39.33427', '-76.43941', 'Middle River', 'US', 'America/New_York')",1,8,18
+Amber,"('32.42067', '-104.22884', 'Carlsbad', 'US', 'America/Denver')",0,10,10
+Jaime,"('45.53929', '-122.38731', 'Troutdale', 'US', 'America/Los_Angeles')",1,17,1
+Joshua,"('46.09273', '-88.64235', 'Iron River', 'US', 'America/Menominee')",1,5,13
+Kevin,"('38.17492', '-122.2608', 'American Canyon', 'US', 'America/Los_Angeles')",0,16,22
+Steven,"('42.35843', '-71.05977', 'Boston', 'US', 'America/New_York')",0,3,17
+Lindsey,"('30.5427', '-97.54667', 'Hutto', 'US', 'America/Chicago')",1,16,1
+Amanda,"('35.61452', '-88.81395', 'Jackson', 'US', 'America/Chicago')",0,21,24
+Leslie,"('39.72943', '-104.83192', 'Aurora', 'US', 'America/Denver')",0,23,21
+Alexa,"('47.38093', '-122.23484', 'Kent', 'US', 'America/Los_Angeles')",1,12,19
+Lisa,"('32.42067', '-104.22884', 'Carlsbad', 'US', 'America/Denver')",0,7,17
+Karen,"('35.61452', '-88.81395', 'Jackson', 'US', 'America/Chicago')",0,20,20
+Alexandria,"('41.14676', '-73.49484', 'New Canaan', 'US', 'America/New_York')",1,9,4
+Barry,"('40.58654', '-122.39168', 'Redding', 'US', 'America/Los_Angeles')",0,4,2
+Brian,"('40.94065', '-73.99681', 'Dumont', 'US', 'America/New_York')",0,5,20
+Michael,"('45.16024', '-93.08883', 'Lino Lakes', 'US', 'America/Chicago')",1,0,10
+Heather,"('36.91023', '-121.75689', 'Watsonville', 'US', 'America/Los_Angeles')",1,9,12
+Bradley,"('40.94065', '-73.99681', 'Dumont', 'US', 'America/New_York')",0,6,8
+Samantha,"('40.63316', '-74.13653', 'Port Richmond', 'US', 'America/New_York')",0,1,8
+Diane,"('32.35126', '-95.30106', 'Tyler', 'US', 'America/Chicago')",0,13,4
+Patrick,"('41.9001', '-71.08977', 'Taunton', 'US', 'America/New_York')",0,7,2
+Deanna,"('42.55308', '-87.93341', 'Pleasant Prairie', 'US', 'America/Chicago')",1,3,11
+Pamela,"('41.85059', '-87.882', 'Westchester', 'US', 'America/Chicago')",0,19,5
+Tara,"('41.48199', '-81.79819', 'Lakewood', 'US', 'America/New_York')",0,19,5
+Samantha,"('40.72371', '-73.95097', 'Greenpoint', 'US', 'America/New_York')",0,19,23
+Katrina,"('41.48199', '-81.79819', 'Lakewood', 'US', 'America/New_York')",0,22,12
+Tiffany,"('33.44872', '-86.78777', 'Vestavia Hills', 'US', 'America/Chicago')",0,3,24
+Dwayne,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",0,8,4
+Roger,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",0,19,1
+Melissa,"('36.20829', '-115.98391', 'Pahrump', 'US', 'America/Los_Angeles')",0,13,20
+Tommy,"('33.76446', '-117.79394', 'North Tustin', 'US', 'America/Los_Angeles')",0,8,5
+Jason,"('47.4943', '-122.24092', 'Bryn Mawr-Skyway', 'US', 'America/Los_Angeles')",0,17,8
+Vanessa,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",0,16,6
+Todd,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",0,12,20
+Robert,"('39.78504', '-85.76942', 'Greenfield', 'US', 'America/Indiana/Indianapolis')",0,20,19
+Lawrence,"('26.18924', '-98.15529', 'San Juan', 'US', 'America/Chicago')",1,4,9
+Sheila,"('33.95015', '-118.03917', 'South Whittier', 'US', 'America/Los_Angeles')",0,2,24
+Daniel,"('44.73941', '-93.12577', 'Rosemount', 'US', 'America/Chicago')",0,1,16
+Lawrence,"('36.06523', '-119.01677', 'Porterville', 'US', 'America/Los_Angeles')",1,13,19
+Lori,"('35.74788', '-95.36969', 'Muskogee', 'US', 'America/Chicago')",0,13,1
+Kevin,"('34.14251', '-118.25508', 'Glendale', 'US', 'America/Los_Angeles')",0,17,5
+Sarah,"('41.55815', '-73.0515', 'Waterbury', 'US', 'America/New_York')",0,17,8
+Abigail,"('38.70734', '-77.02303', 'Fort Washington', 'US', 'America/New_York')",0,19,14
+Charles,"('33.08014', '-83.2321', 'Milledgeville', 'US', 'America/New_York')",0,9,24
+Joe,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",0,8,5
+Kevin,"('36.20829', '-115.98391', 'Pahrump', 'US', 'America/Los_Angeles')",0,11,7
+Anna,"('40.94065', '-73.99681', 'Dumont', 'US', 'America/New_York')",0,2,6
+Gregory,"('44.27804', '-88.27205', 'Kaukauna', 'US', 'America/Chicago')",0,3,22
+Tyler,"('33.72255', '-116.37697', 'Palm Desert', 'US', 'America/Los_Angeles')",0,4,24
+Shannon,"('33.76446', '-117.79394', 'North Tustin', 'US', 'America/Los_Angeles')",0,21,14
+Jerry,"('33.44872', '-86.78777', 'Vestavia Hills', 'US', 'America/Chicago')",0,12,21
+Valerie,"('34.21639', '-119.0376', 'Camarillo', 'US', 'America/Los_Angeles')",1,6,19
+Richard,"('38.06084', '-97.92977', 'Hutchinson', 'US', 'America/Chicago')",1,13,17
+Justin,"('40.58654', '-122.39168', 'Redding', 'US', 'America/Los_Angeles')",0,11,3
+Julian,"('46.09273', '-88.64235', 'Iron River', 'US', 'America/Menominee')",0,22,11
+Amanda,"('30.17746', '-81.38758', 'Palm Valley', 'US', 'America/New_York')",0,13,15
+James,"('33.52253', '-117.70755', 'Laguna Niguel', 'US', 'America/Los_Angeles')",1,15,19
+Laura,"('40.82232', '-74.15987', 'Nutley', 'US', 'America/New_York')",1,23,10
+Brian,"('42.16808', '-88.42814', 'Huntley', 'US', 'America/Chicago')",0,14,19
+Wanda,"('46.09273', '-88.64235', 'Iron River', 'US', 'America/Menominee')",0,20,13
+Christina,"('31.12406', '-97.90308', 'Copperas Cove', 'US', 'America/Chicago')",0,16,15
+John,"('38.06084', '-97.92977', 'Hutchinson', 'US', 'America/Chicago')",0,14,5
+Kenneth,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",0,15,1
+Virginia,"('30.5427', '-97.54667', 'Hutto', 'US', 'America/Chicago')",1,13,13
+Whitney,"('35.61452', '-88.81395', 'Jackson', 'US', 'America/Chicago')",1,2,4
+William,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",1,4,17
+Jessica,"('34.63915', '-120.45794', 'Lompoc', 'US', 'America/Los_Angeles')",1,18,22
+Tammy,"('44.73941', '-93.12577', 'Rosemount', 'US', 'America/Chicago')",0,0,11
+Bryan,"('33.98154', '-81.23621', 'Lexington', 'US', 'America/New_York')",1,3,4
+Kari,"('46.09273', '-88.64235', 'Iron River', 'US', 'America/Menominee')",0,23,17
+James,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",0,9,3
+Nicole,"('45.53929', '-122.38731', 'Troutdale', 'US', 'America/Los_Angeles')",1,6,24
+Christopher,"('33.52253', '-117.70755', 'Laguna Niguel', 'US', 'America/Los_Angeles')",1,23,17
+Eric,"('41.9001', '-71.08977', 'Taunton', 'US', 'America/New_York')",1,21,18
+Christine,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",0,21,3
+David,"('32.35126', '-95.30106', 'Tyler', 'US', 'America/Chicago')",0,8,21
+Sierra,"('33.93113', '-117.54866', 'Norco', 'US', 'America/Los_Angeles')",1,12,24
+Corey,"('32.54044', '-82.90375', 'Dublin', 'US', 'America/New_York')",0,22,10
+Sandra,"('39.96097', '-75.60804', 'West Chester', 'US', 'America/New_York')",0,8,4
+Matthew,"('36.06523', '-119.01677', 'Porterville', 'US', 'America/Los_Angeles')",1,13,19
+Ashlee,"('36.06523', '-119.01677', 'Porterville', 'US', 'America/Los_Angeles')",0,22,14
+Jennifer,"('41.47892', '-87.45476', 'Schererville', 'US', 'America/Chicago')",1,0,4
+Matthew,"('39.09112', '-94.41551', 'Independence', 'US', 'America/Chicago')",1,20,4
+Jessica,"('42.35843', '-71.05977', 'Boston', 'US', 'America/New_York')",1,20,20
+Jenna,"('44.27804', '-88.27205', 'Kaukauna', 'US', 'America/Chicago')",0,15,12
+Ebony,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",1,20,4
+Brandon,"('41.57721', '-93.71133', 'West Des Moines', 'US', 'America/Chicago')",0,5,19
+Holly,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",0,20,8
+Mariah,"('35.74788', '-95.36969', 'Muskogee', 'US', 'America/Chicago')",0,7,20
+Nathaniel,"('29.65163', '-82.32483', 'Gainesville', 'US', 'America/New_York')",1,20,10
+Robert,"('30.16688', '-96.39774', 'Brenham', 'US', 'America/Chicago')",1,2,18
+Susan,"('39.32011', '-76.51552', 'Rosedale', 'US', 'America/New_York')",1,23,22
+Michael,"('33.95015', '-118.03917', 'South Whittier', 'US', 'America/Los_Angeles')",0,9,14
+Erin,"('33.76446', '-117.79394', 'North Tustin', 'US', 'America/Los_Angeles')",0,21,16
+Laura,"('36.61033', '-88.31476', 'Murray', 'US', 'America/Chicago')",1,21,8
+William,"('37.71715', '-122.40433', 'Visitacion Valley', 'US', 'America/Los_Angeles')",1,15,17
+Donna,"('44.73941', '-93.12577', 'Rosemount', 'US', 'America/Chicago')",1,9,7
+Robert,"('45.49428', '-122.86705', 'Aloha', 'US', 'America/Los_Angeles')",0,15,10
+William,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",0,2,5
+William,"('29.53885', '-95.44744', 'Fresno', 'US', 'America/Chicago')",0,7,6
+Emily,"('30.16688', '-96.39774', 'Brenham', 'US', 'America/Chicago')",0,20,3
+Isabella,"('45.16024', '-93.08883', 'Lino Lakes', 'US', 'America/Chicago')",0,11,17
+Andrea,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",0,0,13
+Natasha,"('35.74788', '-95.36969', 'Muskogee', 'US', 'America/Chicago')",0,12,17
+Teresa,"('40.58654', '-122.39168', 'Redding', 'US', 'America/Los_Angeles')",0,11,6
+Joseph,"('40.68066', '-73.47429', 'Massapequa', 'US', 'America/New_York')",0,8,15
+Rebekah,"('43.61062', '-72.97261', 'Rutland', 'US', 'America/New_York')",0,2,20
+Christopher,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",0,20,23
+Michael,"('39.71734', '-74.96933', 'Sicklerville', 'US', 'America/New_York')",0,11,14
+Susan,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",1,21,2
+Sean,"('25.67927', '-80.31727', 'Kendall', 'US', 'America/New_York')",1,19,13
+Alyssa,"('29.53885', '-95.44744', 'Fresno', 'US', 'America/Chicago')",1,15,16
+Elizabeth,"('44.99012', '-123.02621', 'Keizer', 'US', 'America/Los_Angeles')",1,20,6
+Peter,"('33.54428', '-84.23381', 'Stockbridge', 'US', 'America/New_York')",0,16,3
+Brian,"('39.78504', '-85.76942', 'Greenfield', 'US', 'America/Indiana/Indianapolis')",1,13,21
+Justin,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",0,1,12
+Patricia,"('42.93369', '-72.27814', 'Keene', 'US', 'America/New_York')",0,21,19
+Michael,"('42.30865', '-83.48216', 'Canton', 'US', 'America/Detroit')",0,15,1
+Michelle,"('40.65538', '-74.38987', 'Scotch Plains', 'US', 'America/New_York')",1,11,21
+Keith,"('41.47892', '-87.45476', 'Schererville', 'US', 'America/Chicago')",0,2,15
+Rose,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",1,14,24
+Robert,"('39.08367', '-84.50855', 'Covington', 'US', 'America/New_York')",0,12,22
+Charlotte,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",1,0,20
+Brenda,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",1,21,15
+Jamie,"('47.64995', '-117.23991', 'Opportunity', 'US', 'America/Los_Angeles')",1,17,3
+Martha,"('47.4943', '-122.24092', 'Bryn Mawr-Skyway', 'US', 'America/Los_Angeles')",0,14,3
+Lucas,"('42.7392', '-84.62081', 'Waverly', 'US', 'America/Detroit')",0,23,9
+Richard,"('41.24255', '-82.61573', 'Norwalk', 'US', 'America/New_York')",0,12,19
+Christopher,"('40.2737', '-76.88442', 'Harrisburg', 'US', 'America/New_York')",1,13,3
+Heather,"('34.06635', '-84.67837', 'Acworth', 'US', 'America/New_York')",1,9,16
+Sarah,"('40.63316', '-74.13653', 'Port Richmond', 'US', 'America/New_York')",0,18,9
+Robert,"('37.52487', '-77.55777', 'Bon Air', 'US', 'America/New_York')",0,13,14
+Carolyn,"('41.14676', '-73.49484', 'New Canaan', 'US', 'America/New_York')",0,15,1
+Mario,"('42.97086', '-82.42491', 'Port Huron', 'US', 'America/Detroit')",0,20,3
+Jessica,"('33.52253', '-117.70755', 'Laguna Niguel', 'US', 'America/Los_Angeles')",0,20,13
+Dawn,"('35.05266', '-78.87836', 'Fayetteville', 'US', 'America/New_York')",1,13,14
+Sonia,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",1,8,12
+Kerry,"('33.98154', '-81.23621', 'Lexington', 'US', 'America/New_York')",0,2,1
+Claudia,"('46.09273', '-88.64235', 'Iron River', 'US', 'America/Menominee')",1,19,6
+Mary,"('26.68451', '-80.66756', 'Belle Glade', 'US', 'America/New_York')",1,18,1
+Elizabeth,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",0,17,2
+Paul,"('42.97086', '-82.42491', 'Port Huron', 'US', 'America/Detroit')",1,23,11
+Dylan,"('28.15112', '-82.46148', 'Lutz', 'US', 'America/New_York')",0,21,8
+Susan,"('36.20829', '-115.98391', 'Pahrump', 'US', 'America/Los_Angeles')",1,18,20
+Joshua,"('41.66394', '-83.55521', 'Toledo', 'US', 'America/New_York')",0,22,7
+Patrick,"('40.72371', '-73.95097', 'Greenpoint', 'US', 'America/New_York')",0,20,8
+Donald,"('41.9001', '-71.08977', 'Taunton', 'US', 'America/New_York')",1,12,5
+James,"('40.82232', '-74.15987', 'Nutley', 'US', 'America/New_York')",0,8,8
+Rachel,"('41.8542', '-87.66561', 'Lower West Side', 'US', 'America/Chicago')",1,11,22
+Mary,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",1,0,4
+Veronica,"('34.95303', '-120.43572', 'Santa Maria', 'US', 'America/Los_Angeles')",1,15,15
+Paul,"('35.61452', '-88.81395', 'Jackson', 'US', 'America/Chicago')",0,17,23
+James,"('33.72255', '-116.37697', 'Palm Desert', 'US', 'America/Los_Angeles')",1,4,19
+Sharon,"('42.97086', '-82.42491', 'Port Huron', 'US', 'America/Detroit')",1,12,24
+Susan,"('40.72816', '-74.07764', 'Jersey City', 'US', 'America/New_York')",1,22,5
+William,"('44.73941', '-93.12577', 'Rosemount', 'US', 'America/Chicago')",1,20,11
+Randall,"('35.61452', '-88.81395', 'Jackson', 'US', 'America/Chicago')",1,9,21
+Paul,"('34.09611', '-118.10583', 'San Gabriel', 'US', 'America/Los_Angeles')",0,9,10
+Samuel,"('26.2173', '-80.22588', 'North Lauderdale', 'US', 'America/New_York')",1,18,3
+Stephanie,"('40.94065', '-73.99681', 'Dumont', 'US', 'America/New_York')",1,21,5
+Jimmy,"('42.30865', '-83.48216', 'Canton', 'US', 'America/Detroit')",0,17,8
+Allen,"('38.91817', '-78.19444', 'Front Royal', 'US', 'America/New_York')",1,13,6
+Richard,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",1,15,21
+Kimberly,"('32.42067', '-104.22884', 'Carlsbad', 'US', 'America/Denver')",1,23,12
+Michaela,"('42.55308', '-87.93341', 'Pleasant Prairie', 'US', 'America/Chicago')",1,18,13
+Kristopher,"('40.5576', '-74.28459', 'Woodbridge', 'US', 'America/New_York')",1,20,16
+Sean,"('40.65995', '-111.99633', 'Kearns', 'US', 'America/Denver')",1,23,13
+Kellie,"('41.48199', '-81.79819', 'Lakewood', 'US', 'America/New_York')",1,22,14
+Gregory,"('38.17492', '-122.2608', 'American Canyon', 'US', 'America/Los_Angeles')",0,21,19
+Ashley,"('39.43534', '-84.20299', 'Lebanon', 'US', 'America/New_York')",1,5,23
+Kimberly,"('30.16688', '-96.39774', 'Brenham', 'US', 'America/Chicago')",1,15,2
+Chase,"('39.57582', '-105.11221', 'Ken Caryl', 'US', 'America/Denver')",1,10,24
+Cody,"('40.72371', '-73.95097', 'Greenpoint', 'US', 'America/New_York')",1,19,19
+John,"('41.8542', '-87.66561', 'Lower West Side', 'US', 'America/Chicago')",1,14,20
+Corey,"('45.16024', '-93.08883', 'Lino Lakes', 'US', 'America/Chicago')",0,4,21
+Tyler,"('40.56754', '-89.64066', 'Pekin', 'US', 'America/Chicago')",1,14,21
+Katrina,"('37.52487', '-77.55777', 'Bon Air', 'US', 'America/New_York')",1,16,6
+April,"('40.81', '-73.9625', 'Morningside Heights', 'US', 'America/New_York')",0,0,3
+Evan,"('32.35126', '-95.30106', 'Tyler', 'US', 'America/Chicago')",0,23,19
+David,"('35.05266', '-78.87836', 'Fayetteville', 'US', 'America/New_York')",0,14,16
+Alyssa,"('26.68451', '-80.66756', 'Belle Glade', 'US', 'America/New_York')",1,14,1
+Stacey,"('34.95303', '-120.43572', 'Santa Maria', 'US', 'America/Los_Angeles')",0,13,19
+Aaron,"('31.84568', '-102.36764', 'Odessa', 'US', 'America/Chicago')",1,5,20
+Holly,"('44.73941', '-93.12577', 'Rosemount', 'US', 'America/Chicago')",0,1,6
+Erin,"('33.08014', '-83.2321', 'Milledgeville', 'US', 'America/New_York')",1,14,4
+Eugene,"('33.45122', '-86.99666', 'Hueytown', 'US', 'America/Chicago')",0,8,5
+Victor,"('39.00622', '-77.4286', 'Sterling', 'US', 'America/New_York')",1,13,23
+Pamela,"('43.91452', '-69.96533', 'Brunswick', 'US', 'America/New_York')",1,0,1
+Tina,"('33.08014', '-83.2321', 'Milledgeville', 'US', 'America/New_York')",0,7,16
+Megan,"('29.65163', '-82.32483', 'Gainesville', 'US', 'America/New_York')",1,13,16
+Richard,"('41.80753', '-87.65644', 'New City', 'US', 'America/Chicago')",0,14,10
+Robert,"('41.57721', '-93.71133', 'West Des Moines', 'US', 'America/Chicago')",0,23,24
+Erin,"('20.88953', '-156.47432', 'Kahului', 'US', 'Pacific/Honolulu')",1,3,13
+Jason,"('32.35126', '-95.30106', 'Tyler', 'US', 'America/Chicago')",0,5,2
+Daisy,"('38.58894', '-89.99038', 'Fairview Heights', 'US', 'America/Chicago')",0,21,13
+Christopher,"('33.76446', '-117.79394', 'North Tustin', 'US', 'America/Los_Angeles')",0,19,21
+Martin,"('40.64621', '-73.97069', 'Kensington', 'US', 'America/New_York')",0,9,17
+Randy,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",1,14,6
+Kara,"('34.25628', '-78.04471', 'Leland', 'US', 'America/New_York')",0,10,23
+Angela,"('35.05266', '-78.87836', 'Fayetteville', 'US', 'America/New_York')",1,21,15
+Matthew,"('34.25628', '-78.04471', 'Leland', 'US', 'America/New_York')",1,9,23
+Tiffany,"('41.47892', '-87.45476', 'Schererville', 'US', 'America/Chicago')",0,8,24
+Diana,"('40.34912', '-111.90466', 'Saratoga Springs', 'US', 'America/Denver')",0,16,24
+Shirley,"('34.14251', '-118.25508', 'Glendale', 'US', 'America/Los_Angeles')",1,8,14
+Kayla,"('39.00622', '-77.4286', 'Sterling', 'US', 'America/New_York')",1,13,10
+Margaret,"('41.55838', '-81.56929', 'Collinwood', 'US', 'America/New_York')",0,19,13
+Shannon,"('40.57788', '-73.95958', 'Brighton Beach', 'US', 'America/New_York')",0,8,1
+Janice,"('40.60538', '-73.75513', 'Far Rockaway', 'US', 'America/New_York')",1,12,21
+Peggy,"('33.52253', '-117.70755', 'Laguna Niguel', 'US', 'America/Los_Angeles')",1,14,9
+Pamela,"('36.06523', '-119.01677', 'Porterville', 'US', 'America/Los_Angeles')",0,5,2
+Rachael,"('41.48199', '-81.79819', 'Lakewood', 'US', 'America/New_York')",1,12,8
+Brian,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",0,3,5
+Alexandra,"('28.54944', '-81.77285', 'Clermont', 'US', 'America/New_York')",1,9,23
+Daniel,"('37.71715', '-122.40433', 'Visitacion Valley', 'US', 'America/Los_Angeles')",0,16,4
+Julie,"('29.53885', '-95.44744', 'Fresno', 'US', 'America/Chicago')",1,16,17
+Sydney,"('36.91023', '-121.75689', 'Watsonville', 'US', 'America/Los_Angeles')",1,10,11
+Nicholas,"('39.00622', '-77.4286', 'Sterling', 'US', 'America/New_York')",1,15,20
+Kevin,"('33.98154', '-81.23621', 'Lexington', 'US', 'America/New_York')",1,0,11
+Mark,"('33.76446', '-117.79394', 'North Tustin', 'US', 'America/Los_Angeles')",0,0,8
+Kristine,"('39.32288', '-76.72803', 'Woodlawn', 'US', 'America/New_York')",1,14,24
+Cameron,"('33.52253', '-117.70755', 'Laguna Niguel', 'US', 'America/Los_Angeles')",0,23,9
+Melissa,"('36.91023', '-121.75689', 'Watsonville', 'US', 'America/Los_Angeles')",1,3,9
+Sandra,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",0,11,22
+Marc,"('32.9156', '-117.14392', 'Mira Mesa', 'US', 'America/Los_Angeles')",0,14,17
+Kristen,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",1,5,19
+Jennifer,"('35.61452', '-88.81395', 'Jackson', 'US', 'America/Chicago')",0,7,14
+Christina,"('33.95015', '-118.03917', 'South Whittier', 'US', 'America/Los_Angeles')",0,22,1
+Jose,"('41.84364', '-87.71255', 'South Lawndale', 'US', 'America/Chicago')",1,22,4
+William,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",1,8,23
+Angelica,"('38.70734', '-77.02303', 'Fort Washington', 'US', 'America/New_York')",0,9,17
+Katrina,"('33.44872', '-86.78777', 'Vestavia Hills', 'US', 'America/Chicago')",0,5,10
+Donald,"('38.17492', '-122.2608', 'American Canyon', 'US', 'America/Los_Angeles')",0,23,22
+Jessica,"('41.8542', '-87.66561', 'Lower West Side', 'US', 'America/Chicago')",1,9,10
+Philip,"('41.80753', '-87.65644', 'New City', 'US', 'America/Chicago')",1,7,9
+Daniel,"('41.84364', '-87.71255', 'South Lawndale', 'US', 'America/Chicago')",0,11,4
+Nancy,"('44.99012', '-123.02621', 'Keizer', 'US', 'America/Los_Angeles')",1,23,12
+Jason,"('40.82232', '-74.15987', 'Nutley', 'US', 'America/New_York')",0,13,2
+Amy,"('33.7207', '-116.21677', 'Indio', 'US', 'America/Los_Angeles')",1,14,12
+David,"('40.94065', '-73.99681', 'Dumont', 'US', 'America/New_York')",1,19,16
+Christina,"('40.72371', '-73.95097', 'Greenpoint', 'US', 'America/New_York')",1,0,17
+James,"('42.7392', '-84.62081', 'Waverly', 'US', 'America/Detroit')",0,16,22
+Thomas,"('32.54044', '-82.90375', 'Dublin', 'US', 'America/New_York')",1,19,16
+Kristy,"('40.65538', '-74.38987', 'Scotch Plains', 'US', 'America/New_York')",1,3,18
+Kaitlyn,"('46.32374', '-120.00865', 'Sunnyside', 'US', 'America/Los_Angeles')",1,20,19
+John,"('39.08367', '-84.50855', 'Covington', 'US', 'America/New_York')",1,15,21
+Sean,"('40.56754', '-89.64066', 'Pekin', 'US', 'America/Chicago')",0,19,1
+Elizabeth,"('39.43534', '-84.20299', 'Lebanon', 'US', 'America/New_York')",0,6,14
+Angela,"('32.52515', '-93.75018', 'Shreveport', 'US', 'America/Chicago')",1,5,8
+Zachary,"('47.64995', '-117.23991', 'Opportunity', 'US', 'America/Los_Angeles')",1,11,23
+Travis,"('40.58654', '-122.39168', 'Redding', 'US', 'America/Los_Angeles')",1,9,4
+Marilyn,"('31.76212', '-95.63079', 'Palestine', 'US', 'America/Chicago')",1,12,5
+Dylan,"('37.73604', '-120.93549', 'Riverbank', 'US', 'America/Los_Angeles')",0,3,24
+Justin,"('39.00622', '-77.4286', 'Sterling', 'US', 'America/New_York')",1,12,21
+Tina,"('42.7392', '-84.62081', 'Waverly', 'US', 'America/Detroit')",0,3,18
+Beth,"('38.54491', '-121.74052', 'Davis', 'US', 'America/Los_Angeles')",0,15,18
+Lisa,"('31.12406', '-97.90308', 'Copperas Cove', 'US', 'America/Chicago')",1,3,4
+Michael,"('37.95143', '-91.77127', 'Rolla', 'US', 'America/Chicago')",1,4,20
+James,"('28.54944', '-81.77285', 'Clermont', 'US', 'America/New_York')",0,12,11
+Connie,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",0,15,9
+David,"('45.0408', '-93.263', 'Columbia Heights', 'US', 'America/Chicago')",0,7,11
+Jacob,"('39.45621', '-77.96389', 'Martinsburg', 'US', 'America/New_York')",0,1,20
+Tina,"('44.27804', '-88.27205', 'Kaukauna', 'US', 'America/Chicago')",0,7,21
+Michael,"('41.48199', '-81.79819', 'Lakewood', 'US', 'America/New_York')",0,3,23
+Michele,"('40.65538', '-74.38987', 'Scotch Plains', 'US', 'America/New_York')",1,9,19
+Jasmine,"('41.84364', '-87.71255', 'South Lawndale', 'US', 'America/Chicago')",1,9,12
+Maria,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",0,18,21
+Robert,"('43.16547', '-77.70066', 'Gates-North Gates', 'US', 'America/New_York')",1,7,17
+Antonio,"('40.72816', '-74.07764', 'Jersey City', 'US', 'America/New_York')",0,16,23
+Wayne,"('42.24113', '-88.3162', 'Crystal Lake', 'US', 'America/Chicago')",1,8,10
+Kelly,"('31.76212', '-95.63079', 'Palestine', 'US', 'America/Chicago')",0,13,6
+Mary,"('34.25807', '-88.70464', 'Tupelo', 'US', 'America/Chicago')",1,7,20
+Rhonda,"('40.65538', '-74.38987', 'Scotch Plains', 'US', 'America/New_York')",1,0,7
+Peter,"('40.24537', '-75.64963', 'Pottstown', 'US', 'America/New_York')",1,2,6
+Rachel,"('37.95143', '-91.77127', 'Rolla', 'US', 'America/Chicago')",0,7,5
+Nicholas,"('33.76446', '-117.79394', 'North Tustin', 'US', 'America/Los_Angeles')",0,11,17
+Cynthia,"('35.25064', '-91.73625', 'Searcy', 'US', 'America/Chicago')",1,23,22
+Ronald,"('45.49428', '-122.86705', 'Aloha', 'US', 'America/Los_Angeles')",0,20,12
+Kimberly,"('45.49428', '-122.86705', 'Aloha', 'US', 'America/Los_Angeles')",0,8,21
+Miguel,"('38.06084', '-97.92977', 'Hutchinson', 'US', 'America/Chicago')",0,22,6
+Amy,"('34.09611', '-118.10583', 'San Gabriel', 'US', 'America/Los_Angeles')",0,12,10
+Evelyn,"('41.75338', '-86.11084', 'Granger', 'US', 'America/Indiana/Indianapolis')",0,2,18
+Jeffrey,"('39.33427', '-76.43941', 'Middle River', 'US', 'America/New_York')",1,6,21
+Karina,"('41.14676', '-73.49484', 'New Canaan', 'US', 'America/New_York')",0,1,8
+Samuel,"('33.93113', '-117.54866', 'Norco', 'US', 'America/Los_Angeles')",0,13,10
+Todd,"('32.9156', '-117.14392', 'Mira Mesa', 'US', 'America/Los_Angeles')",1,9,2
+Willie,"('28.54944', '-81.77285', 'Clermont', 'US', 'America/New_York')",0,20,21
+Tammy,"('41.47892', '-87.45476', 'Schererville', 'US', 'America/Chicago')",1,9,17
+Michael,"('41.50343', '-74.01042', 'Newburgh', 'US', 'America/New_York')",1,11,8
+Jason,"('35.88264', '-80.08199', 'Thomasville', 'US', 'America/New_York')",1,9,6
+Lisa,"('43.91452', '-69.96533', 'Brunswick', 'US', 'America/New_York')",1,11,24
+James,"('44.27804', '-88.27205', 'Kaukauna', 'US', 'America/Chicago')",0,19,14
+Kimberly,"('41.15376', '-87.88754', 'Bourbonnais', 'US', 'America/Chicago')",0,12,18
+Henry,"('25.67927', '-80.31727', 'Kendall', 'US', 'America/New_York')",1,14,14
+April,"('43.54072', '-116.56346', 'Nampa', 'US', 'America/Boise')",0,21,8
+Lisa,"('34.77453', '-96.67834', 'Ada', 'US', 'America/Chicago')",0,13,13
+Robert,"('41.57721', '-93.71133', 'West Des Moines', 'US', 'America/Chicago')",0,11,2
+Kristina,"('40.5576', '-74.28459', 'Woodbridge', 'US', 'America/New_York')",1,2,20
+Roy,"('34.06635', '-84.67837', 'Acworth', 'US', 'America/New_York')",0,1,24
+Cynthia,"('40.65995', '-111.99633', 'Kearns', 'US', 'America/Denver')",0,17,17
+Peggy,"('33.98154', '-81.23621', 'Lexington', 'US', 'America/New_York')",1,14,13
+Leslie,"('28.90054', '-81.26367', 'Deltona', 'US', 'America/New_York')",0,3,5
+Cindy,"('44.27804', '-88.27205', 'Kaukauna', 'US', 'America/Chicago')",0,23,11
+Steven,"('47.38093', '-122.23484', 'Kent', 'US', 'America/Los_Angeles')",0,14,19
+Paul,"('37.71715', '-122.40433', 'Visitacion Valley', 'US', 'America/Los_Angeles')",1,20,12
+Ralph,"('33.44872', '-86.78777', 'Vestavia Hills', 'US', 'America/Chicago')",1,18,17
+Nancy,"('33.92946', '-116.97725', 'Beaumont', 'US', 'America/Los_Angeles')",1,11,4
+Elizabeth,"('45.53929', '-122.38731', 'Troutdale', 'US', 'America/Los_Angeles')",0,13,22
+Robin,"('36.20829', '-115.98391', 'Pahrump', 'US', 'America/Los_Angeles')",1,17,7
+Emily,"('41.80753', '-87.65644', 'New City', 'US', 'America/Chicago')",1,9,14
+Shane,"('31.76212', '-95.63079', 'Palestine', 'US', 'America/Chicago')",0,5,24
+Jillian,"('44.99012', '-123.02621', 'Keizer', 'US', 'America/Los_Angeles')",1,14,16
+Stephen,"('47.64995', '-117.23991', 'Opportunity', 'US', 'America/Los_Angeles')",1,9,19
+Carl,"('32.44874', '-99.73314', 'Abilene', 'US', 'America/Chicago')",1,14,8
+Christine,"('25.67927', '-80.31727', 'Kendall', 'US', 'America/New_York')",0,9,3
+Kelly,"('42.4251', '-71.06616', 'Malden', 'US', 'America/New_York')",1,20,4
+Bradley,"('39.00622', '-77.4286', 'Sterling', 'US', 'America/New_York')",0,5,9
+Cheryl,"('26.2173', '-80.22588', 'North Lauderdale', 'US', 'America/New_York')",0,8,5
+David,"('42.55308', '-87.93341', 'Pleasant Prairie', 'US', 'America/Chicago')",1,6,6
+Megan,"('41.6764', '-91.58045', 'Coralville', 'US', 'America/Chicago')",0,3,19
+Michael,"('40.63316', '-74.13653', 'Port Richmond', 'US', 'America/New_York')",0,9,18
+Logan,"('34.14251', '-118.25508', 'Glendale', 'US', 'America/Los_Angeles')",1,17,20
+Lisa,"('26.2173', '-80.22588', 'North Lauderdale', 'US', 'America/New_York')",1,2,3
+Joseph,"('40.68066', '-73.47429', 'Massapequa', 'US', 'America/New_York')",0,4,9
+Jennifer,"('27.09978', '-82.45426', 'Venice', 'US', 'America/New_York')",1,13,21
+Colleen,"('39.32011', '-76.51552', 'Rosedale', 'US', 'America/New_York')",0,18,6
+Daniel,"('33.03699', '-117.29198', 'Encinitas', 'US', 'America/Los_Angeles')",1,5,24
+Roy,"('37.52487', '-77.55777', 'Bon Air', 'US', 'America/New_York')",0,1,3
+Sylvia,"('32.5007', '-94.74049', 'Longview', 'US', 'America/Chicago')",0,15,7
+Rachel,"('43.61062', '-72.97261', 'Rutland', 'US', 'America/New_York')",1,9,3
+Stephanie,"('26.91756', '-82.07842', 'Punta Gorda Isles', 'US', 'America/New_York')",0,0,15
+Austin,"('39.32288', '-76.72803', 'Woodlawn', 'US', 'America/New_York')",0,19,9
+Denise,"('33.41012', '-91.06177', 'Greenville', 'US', 'America/Chicago')",1,23,20
+Mary,"('39.96097', '-75.60804', 'West Chester', 'US', 'America/New_York')",1,7,15
+Vanessa,"('47.80527', '-122.24064', 'Bothell West', 'US', 'America/Los_Angeles')",0,19,15
+Cathy,"('47.64995', '-117.23991', 'Opportunity', 'US', 'America/Los_Angeles')",0,23,21
+Brian,"('38.54491', '-121.74052', 'Davis', 'US', 'America/Los_Angeles')",0,8,23
+Mary,"('47.76232', '-122.2054', 'Bothell', 'US', 'America/Los_Angeles')",0,23,8
