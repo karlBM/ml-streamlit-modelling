@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to KarlAI! 👋")
+    st.write("# Welcome to KAI! 👋")
 
     st.sidebar.success("Select a model above.")
 
