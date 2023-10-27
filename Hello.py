@@ -20,13 +20,13 @@ LOGGER = get_logger(__name__)
 
 def run():
     st.set_page_config(
-        page_title="Hello",
+        page_title="Welcome",
         page_icon="👋",
     )
 
     st.write("# Welcome to KAI! 👋")
 
-    st.sidebar.success("Select a model above.")
+    st.sidebar.success("Select an example above to get started")
 
     st.markdown(
         """

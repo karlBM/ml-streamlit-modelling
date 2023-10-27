@@ -60,6 +60,10 @@ def eda():
             )
         st.altair_chart(chart, use_container_width=True)
 
+
+        st.write("###### So now we have some understanding of what the data looks like, let's continue to get a bit smarter with how \
+                 we can represent our data for modelling")
+
     except URLError as e:
         st.error(
             """
