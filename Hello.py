@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to KAI! 👋")
+    st.write("# Welcome to Tengf(x)! 👋")
 
     st.sidebar.success("Select an example above to get started")
 
