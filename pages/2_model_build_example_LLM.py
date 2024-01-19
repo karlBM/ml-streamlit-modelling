@@ -67,7 +67,7 @@ st.set_page_config(page_title="Model Building Example", page_icon="🌍")
 st.markdown("# Model Building Example")
 st.sidebar.header("Model Building Example")
 st.write(
-    """This is an example where we can create a logistic regression model against some data !!"""
+    """This is an example where we can create a logistic regression model against some data !!!"""
 )
 
 model_building()
